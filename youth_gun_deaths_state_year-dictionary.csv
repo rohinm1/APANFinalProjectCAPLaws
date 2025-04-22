@@ -1,0 +1,6 @@
+Name,Label,Type,Description
+year,Year,integer,
+state,"50 United States and the District of Columbia",string,
+deaths,"Raw count of gun fatalities",integer,
+population,"Raw count of population",integer,
+crude_rate,"Unadjusted death rate",float,"Deaths divided by population times 100,000"

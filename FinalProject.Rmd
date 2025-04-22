@@ -1,0 +1,524 @@
+---
+title: "FinalAPANProject"
+output:
+  html_document:
+    df_print: paged
+date: "2025-03-31"
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(plm)
+library(censusapi)
+library(tidycensus)
+library(purrr)
+library(ISLR2)
+library(ggplot2)
+library(tidyr)
+library(MatchIt)
+library(flextable)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+data_1999_2020 <- read.delim("C:/Firearm Storage Evaluation/Multiple Cause of Death, 1999-2020 10-24.txt")
+data_1999_2020 <- select(data_1999_2020, -Notes)
+
+# Concatenate 'year.code' and 'state' to create a new column 'state_year'
+data_1999_2020$state_year <- paste(data_1999_2020$Year.Code, data_1999_2020$State, sep = "_")
+
+# Check the new columns
+head(data_1999_2020$state_year)
+
+
+```
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+load("C:\\Firearm Storage Evaluation\\ICPSR_37363\\DS0001\\37363-0001-Data.rda")
+CAPData <- da37363.0001
+CAPData <- CAPData |>
+  select(STATE, YEAR, CAPLIABILITY, CAPACCESS, CAPUSES, CAPUNLOADED, CAP18, CAP16, CAP14)
+CAPData$state_year <- paste(CAPData$YEAR, CAPData$STATE, sep = "_")
+head(CAPData$state_year)
+
+```
+
+
+
+```{r}
+CAPData$state_year <- trimws(CAPData$state_year)
+CAPData <- CAPData |>
+  filter(YEAR > 1998)
+data_1999_2020$state_year <- trimws(data_1999_2020$state_year)
+
+# Join
+joined_data <- CAPData %>%
+  left_join(data_1999_2020, by = "state_year")
+
+# Filter out rows where deaths are 0 or "Suppressed"
+joined_data <- joined_data %>%
+  filter(Deaths != 0)
+
+```
+
+```{r}
+# Separating out firearm
+joined_data <- joined_data |>
+  mutate(`UCD...Injury.Mechanism...All.Other.Leading.Causes` = 
+           ifelse(`UCD...Injury.Mechanism...All.Other.Leading.Causes` == "Firearm", 
+                  "Firearm", 
+                  "Non-firearm"))
+firearm_data <- joined_data |>
+  filter(UCD...Injury.Mechanism...All.Other.Leading.Causes == "Firearm")
+write.csv(firearm_data,"C:\\Firearm Storage Evaluation\\firearmdata.csv", row.names = FALSE)
+
+```
+
+
+
+```{r}
+
+joined_data <- joined_data |>
+  mutate(
+    Deaths = as.numeric(Deaths),  # Convert Deaths to numeric
+    Population = as.numeric(Population),  # Convert Population to numeric
+    firearm_suicide_rate = ifelse(
+      `UCD...Injury.Mechanism...All.Other.Leading.Causes` == "Firearm", 
+      (Deaths / Population) * 100000, 
+      NA
+    )
+  )
+```
+
+
+
+```{r}
+# List of variables to check frequencies
+vars_to_check <- c("CAPLIABILITY", "CAPACCESS", "CAPUSES", "CAPUNLOADED", 
+                   "CAP18", "CAP16", "CAP14")
+
+# Create a dataset that contains frequencies for each variable
+frequency_data <- firearm_data %>%
+  select(all_of(vars_to_check)) %>%
+  gather(key = "Variable", value = "Value") %>%
+  count(Variable, Value, name = "Frequency")  # Use count instead of tally
+
+# Plot the frequencies for each variable
+ggplot(frequency_data, aes(x = Value, y = Frequency, fill = Variable)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  facet_wrap(~ Variable, scales = "free_x") +
+  theme_minimal() +
+  labs(title = "Frequencies of Variables in Firearm Data",
+       x = "Value",
+       y = "Frequency") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+
+
+
+```{r, census matching}
+
+# Define 2000 Census Variables (SF1 and SF3)
+census_sf1_vars_2000 <- c("P007002",  # White Population
+                           "P013001",  # Median Age
+                           "H010001")  # Total Population
+
+census_sf3_vars_2000 <- c("HCT012001",  # Median Household Income
+                           "H063001",    # Median Gross Rent
+                           "P037015", "P037032")  # Bachelor's Degree (Male + Female)
+
+# Pull SF1 Data (2000)
+census_sf1_2000 <- get_decennial(geography = "state", variables = census_sf1_vars_2000, year = 2000, sumfile = "sf1") %>%
+  pivot_wider(names_from = variable, values_from = value) %>%
+  rename(
+    White_Pop = P007002,
+    Median_Age = P013001
+  ) %>%
+  mutate(year = 2000)
+
+# Pull SF3 Data (2000)
+census_sf3_2000 <- get_decennial(geography = "state", variables = census_sf3_vars_2000, year = 2000, sumfile = "sf3") %>%
+  pivot_wider(names_from = variable, values_from = value) %>%
+  mutate(
+    Bachelors_Degree = P037015 + P037032
+  ) %>%
+  select(-P037015, -P037032) %>%
+  rename(
+    Median_Income = HCT012001,
+    Median_Rent = H063001
+  ) %>%
+  mutate(year = 2000)
+
+# Define ACS Variables for 2005-2019 (excluding Total Population)
+acs_vars <- c("B02001_002E",  # White Population
+              "B01002_001E",   # Median Age
+              "B19013_001E",   # Median Household Income
+              "B25064_001E",   # Median Gross Rent
+              "B06009_005E")   # Bachelor's Degree
+
+# Pull ACS Data for 2005
+# acs_data_2005 <- get_acs(geography = "state", variables = acs_vars, year = 2005, survey = "acs1") %>%
+#  pivot_wider(names_from = variable, values_from = estimate) %>%
+#  mutate(year = 2005) |>
+ # select(-moe) 
+
+# Pull ACS Data for 2006-2019
+acs_data_2005_onward <- map_dfr(2005:2019, function(yr) {
+  get_acs(geography = "state", variables = acs_vars, year = yr, survey = "acs1") %>%
+    mutate(year = yr)|>
+  select(-moe) 
+})
+
+# Reshape ACS Data (2006-2019)
+acs_data <- acs_data_2005_onward %>%
+  pivot_wider(names_from = variable, values_from = estimate)
+
+# Combine ACS Data (2005-2019)
+#acs_data <- bind_rows(acs_data_2005, acs_data_2006_onward_wide)
+
+# Rename ACS Data Columns (Removing the "E" from the end of each variable)
+acs_data <- acs_data %>%
+  rename(
+    White_Pop = B02001_002,  # White Population
+    Median_Age = B01002_001, # Median Age
+    Median_Income = B19013_001, # Median Household Income
+    Median_Rent = B25064_001, # Median Gross Rent
+    Bachelors_Degree = B06009_005  # Bachelor's Degree
+  )
+
+# Create state-year keys for merging
+census_sf1_2000 <- census_sf1_2000 %>%
+  mutate(state_year = paste0(year, "_", gsub(" ", "", NAME)))
+
+census_sf3_2000 <- census_sf3_2000 %>%
+  mutate(state_year = paste0(year, "_", gsub(" ", "", NAME)))
+
+acs_data <- acs_data %>%
+  mutate(state_year = paste0(year, "_", gsub(" ", "", NAME)))
+
+# Ensure there are no conflicting column names in firearm_data
+firearm_data <- firearm_data %>%
+  mutate(state_year = paste0(Year, "_", gsub(" ", "", State)))
+
+# Now join the Census and ACS data with firearm data separately
+
+# Join the 2000 Census SF1 Data with Firearm Data
+census_data_2000_final <- left_join(firearm_data, census_sf1_2000, by = "state_year")
+
+# Join the 2000 Census SF3 Data with Firearm Data
+census_data_2000_final <- left_join(census_data_2000_final, census_sf3_2000, by = "state_year")
+
+# Join ACS Data (2005-2019) with Firearm Data
+combined_data <- left_join(census_data_2000_final, acs_data, by = "state_year")
+
+# Replace NAs in the .y columns with values from the corresponding .x columns
+combined_data <- combined_data %>%
+  mutate(
+    Median_Age.y = ifelse(is.na(Median_Age.y), Median_Age.x, Median_Age.y),
+    White_Pop.y = ifelse(is.na(White_Pop.y), White_Pop.x, White_Pop.y),
+    Bachelors_Degree.y = ifelse(is.na(Bachelors_Degree.y), Bachelors_Degree.x, Bachelors_Degree.y),
+    Median_Income.y = ifelse(is.na(Median_Income.y), Median_Income.x, Median_Income.y),
+    Median_Rent.y = ifelse(is.na(Median_Rent.y), Median_Rent.x, Median_Rent.y),
+    year.y = ifelse(is.na(year.y), year.x, year.y)
+  )
+
+# Drop .x suffixed columns
+combined_data <- combined_data %>%
+  select(-ends_with(".x"))
+
+# Un-suffix the .y columns
+combined_data <- combined_data %>%
+  rename(
+    Median_Age = Median_Age.y,
+    White_Pop = White_Pop.y,
+    Bachelors_Degree = Bachelors_Degree.y,
+    Median_Income = Median_Income.y,
+    Median_Rent = Median_Rent.y,
+  )
+
+# View the final dataset
+summary(combined_data)
+
+
+
+
+
+
+
+```
+
+
+
+
+```{r}
+# Imputing data
+# Load necessary library
+library(dplyr)
+
+# Define the variables to be predicted
+variables_to_predict <- c("White_Pop", "Median_Age", "Median_Income", "Median_Rent", "Bachelors_Degree")
+
+# Create an empty dataframe to store imputed values
+imputation_data <- data.frame()
+
+# Ensure YEAR is numeric
+combined_data <- combined_data %>% mutate(YEAR = as.numeric(YEAR))
+
+# Get unique state names
+state_names <- unique(combined_data$NAME)
+
+# Loop through each state to perform imputation
+for (state in state_names) {
+  
+  # Filter data for the current state
+  state_data <- combined_data %>% filter(NAME == state)
+  
+  # Keep only non-missing values from 2000-2019 for trendline fitting
+  available_data <- state_data %>% filter(YEAR >= 2000 & !is.na(White_Pop))
+  
+  # Create a dataframe for the missing years (1999, 2001-2004)
+  missing_years <- data.frame(YEAR = c(1999, 2001, 2002, 2003, 2004), NAME = state)
+  
+  # Loop through variables to predict missing values
+  for (var in variables_to_predict) {
+    
+    # Check if there are enough non-missing values for this variable
+    if (sum(!is.na(available_data[[var]])) > 1) {
+      
+      # Fit a linear regression model based on available years
+      model <- lm(as.formula(paste(var, "~ YEAR")), data = available_data)
+      
+      # Predict values for the missing years
+      missing_years[[var]] <- predict(model, newdata = missing_years)
+      
+    } else {
+      # If not enough data, assign NA
+      missing_years[[var]] <- NA
+    }
+  }
+  
+  # Append to imputation_data
+  imputation_data <- bind_rows(imputation_data, missing_years)
+}
+
+# Create state-year key for merging
+imputation_data <- imputation_data %>%
+  mutate(state_year = paste0(YEAR, "_", gsub(" ", "", NAME)))
+
+# Merge imputed data with combined_data
+combined_data <- bind_rows(combined_data, imputation_data)
+
+# View summary to confirm imputation
+summary(combined_data)
+
+# Replace NAs in combined_data with imputed values where YEAR is 1999, 2001-2004
+combined_data <- combined_data %>%
+  left_join(imputation_data, by = "state_year", suffix = c("", "_imp")) %>%
+  mutate(
+    White_Pop = ifelse(is.na(White_Pop), White_Pop_imp, White_Pop),
+    Median_Age = ifelse(is.na(Median_Age), Median_Age_imp, Median_Age),
+    Median_Income = ifelse(is.na(Median_Income), Median_Income_imp, Median_Income),
+    Median_Rent = ifelse(is.na(Median_Rent), Median_Rent_imp, Median_Rent),
+    Bachelors_Degree = ifelse(is.na(Bachelors_Degree), Bachelors_Degree_imp, Bachelors_Degree)
+  ) %>%
+  select(-ends_with("_imp"))  # Remove the extra columns from imputation_data
+
+```
+
+
+
+```{r}
+# Final data
+# Drop unwanted columns
+final_data <- combined_data %>%
+  select(-H010001, -GEOID.y, -NAME.y, -year.y, -GEOID, -NAME, -year)
+final_data <- final_data[!is.na(final_data$STATE), ]
+
+final_data$CAP_Law_Present <- apply(final_data[, c("CAPLIABILITY", "CAPACCESS", "CAPUSES", "CAPUNLOADED", "CAP18", "CAP16", "CAP14")], 1, function(x) {
+  if(any(sapply(x, function(val) grepl("(1) Law provision is present", val, fixed = TRUE)))) {
+    return("(1) A CAP Law is present")
+  } else {
+    return("(0) A CAP Law is not present")
+  }
+})
+
+
+
+# Save to CSV
+write.csv(final_data, "final_data.csv", row.names = FALSE)
+
+# Check the first few rows to confirm
+head(final_data)
+
+```
+
+
+
+
+
+```{r}
+# PS Matching
+library(MatchIt)
+
+# Cleaning 
+final_data_clean <- final_data %>% drop_na(Population, Median_Age, White_Pop, Bachelors_Degree, Median_Income, Median_Rent)
+final_data$CAP_Law_Present <- as.factor(final_data$CAP_Law_Present)
+# Remove rows where 'Crude.Rate' is "Unreliable" or "Suppressed"
+final_data_clean <- final_data %>%
+  filter(Crude.Rate != "Unreliable", Crude.Rate != "Suppressed")
+# Ensure 'Crude.Rate' is numeric
+final_data_clean$Crude.Rate <- as.numeric(final_data_clean$Crude.Rate)
+
+# Check the result
+summary(final_data_clean$Crude.Rate)
+
+final_data_clean <- final_data %>% drop_na(Crude.Rate)
+# Filter out rows with NAs in the specified predictors
+final_data_clean <- final_data_clean %>%
+  filter(!is.na(Population) & !is.na(Median_Age) & !is.na(White_Pop) & 
+         !is.na(Bachelors_Degree) & !is.na(Median_Income) & !is.na(Median_Rent))
+
+# Check the result
+summary(final_data_clean$Crude.Rate)
+
+levels(final_data_clean$CAP_Law_Present) <- c(0, 1)
+
+# Match on the census covariates
+psm_model <- matchit(CAP_Law_Present ~ Population + Median_Age + White_Pop + Bachelors_Degree + 
+                     Median_Income + Median_Rent, data = final_data_clean, method = "nearest")
+
+matched_data <- match.data(psm_model)
+
+# Remove rows where 'Crude.Rate' is "Unreliable" or "Suppressed"
+matched_data_clean <- matched_data %>%
+  filter(Crude.Rate != "Unreliable", Crude.Rate != "Suppressed")
+
+# Regressing the matched data
+final_model <- lm(Crude.Rate ~ CAP_Law_Present + Population + Median_Age + White_Pop + 
+                       Bachelors_Degree + Median_Income + Median_Rent, data = matched_data_clean)
+
+# Summary of the regression model
+summary(final_model)
+# Extract the regression results
+psmodel <- summary(final_model)
+
+# Create a data frame of the results
+results_psmodel <- data.frame(
+  Term = rownames(psmodel$coefficients),
+  Estimate = psmodel$coefficients[, "Estimate"],
+  Std.Error = psmodel$coefficients[, "Std. Error"],
+  tValue = psmodel$coefficients[, "t value"],
+  Pr = psmodel$coefficients[, "Pr(>|t|)"]
+)
+
+
+# Create and display the flextable
+flextable(results_psmodel)
+
+# Export Data
+levels(final_data_clean$CAP_Law_Present) <- c("(0) Law provision is not present", "(1) Law provision is present")
+write.csv(final_data_clean, "final_data_clean.csv", row.names = FALSE)
+
+
+```
+
+
+```{r}
+# Summary stats and plots
+# Load libraries
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+
+# Vars to convert and compare
+compare_vars <- c("Deaths", "Population", "Crude.Rate", "Median_Age",
+                  "White_Pop", "Bachelors_Degree", "Median_Income", "Median_Rent")
+
+# Clean columns
+final_data_clean <- final_data_clean %>%
+  mutate(across(all_of(compare_vars), ~as.numeric(gsub(",", "", .))))
+summary(select(final_data_clean, all_of(compare_vars)))
+
+# Summary stats
+summary_stats <- final_data_clean %>%
+  group_by(CAP_Law_Present) %>%
+  summarise(across(all_of(compare_vars),
+                   list(mean = ~mean(., na.rm = TRUE),
+                        median = ~median(., na.rm = TRUE),
+                        sd = ~sd(., na.rm = TRUE)),
+                   .names = "{.col}_{.fn}"))
+
+print(summary_stats)
+
+plot_data <- final_data_clean %>%
+  select(CAP_Law_Present, all_of(compare_vars)) %>%
+  pivot_longer(cols = all_of(compare_vars), names_to = "Variable", values_to = "Value")
+
+# Boxplots
+ggplot(plot_data, aes(x = factor(CAP_Law_Present), y = Value, fill = factor(CAP_Law_Present))) +
+  geom_boxplot(outlier.shape = NA) +
+  facet_wrap(~Variable, scales = "free", ncol = 2) +
+  labs(x = "CAP Law Present", fill = "CAP Law Present") +
+  theme_minimal()
+
+# Density plots
+ggplot(plot_data, aes(x = Value, fill = factor(CAP_Law_Present))) +
+  geom_density(alpha = 0.5) +
+  facet_wrap(~Variable, scales = "free", ncol = 2) +
+  labs(fill = "CAP Law Present") +
+  theme_minimal()
+
+
+
+
+```
+
+
+
+```{r}
+# Normal regression model
+linear_model <- lm(Crude.Rate ~ CAP_Law_Present + Population + Median_Age + White_Pop + 
+                       Bachelors_Degree + Median_Income + Median_Rent, data = final_data_clean)
+summary(linear_model)
+
+library(flextable)
+# Extract the regression results
+model_summary <- summary(linear_model)
+
+# Create a data frame of the results
+results_df <- data.frame(
+  Term = rownames(model_summary$coefficients),
+  Estimate = model_summary$coefficients[, "Estimate"],
+  Std.Error = model_summary$coefficients[, "Std. Error"],
+  tValue = model_summary$coefficients[, "t value"],
+  Pr = model_summary$coefficients[, "Pr(>|t|)"]
+)
+
+# Create and display the flextable
+flextable(results_df)
+```
+
+
+
+```{r}
+# Regression Tables for LaTeX
+library(stargazer)
+# Linear
+stargazer(linear_model)
+
+# PS matched
+stargazer(final_model)
+```
+
+
+

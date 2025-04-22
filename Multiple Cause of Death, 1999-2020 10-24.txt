@@ -1,0 +1,1043 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"UCD - Injury Mechanism & All Other Leading Causes"	"UCD - Injury Mechanism & All Other Leading Causes Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"1999"	"1999"	"Firearm"	"GRINJ-006"	72	951350	7.6
+	"Alabama"	"01"	"2000"	"2000"	"Firearm"	"GRINJ-006"	46	951697	4.8
+	"Alabama"	"01"	"2001"	"2001"	"Firearm"	"GRINJ-006"	49	964222	5.1
+	"Alabama"	"01"	"2002"	"2002"	"Firearm"	"GRINJ-006"	47	968569	4.9
+	"Alabama"	"01"	"2003"	"2003"	"Firearm"	"GRINJ-006"	54	975280	5.5
+	"Alabama"	"01"	"2004"	"2004"	"Firearm"	"GRINJ-006"	56	978072	5.7
+	"Alabama"	"01"	"2005"	"2005"	"Firearm"	"GRINJ-006"	43	980508	4.4
+	"Alabama"	"01"	"2006"	"2006"	"Firearm"	"GRINJ-006"	53	985109	5.4
+	"Alabama"	"01"	"2007"	"2007"	"Firearm"	"GRINJ-006"	49	988979	5.0
+	"Alabama"	"01"	"2008"	"2008"	"Firearm"	"GRINJ-006"	49	993834	4.9
+	"Alabama"	"01"	"2009"	"2009"	"Firearm"	"GRINJ-006"	53	997800	5.3
+	"Alabama"	"01"	"2010"	"2010"	"Firearm"	"GRINJ-006"	52	998448	5.2
+	"Alabama"	"01"	"2011"	"2011"	"Firearm"	"GRINJ-006"	55	1003010	5.5
+	"Alabama"	"01"	"2012"	"2012"	"Firearm"	"GRINJ-006"	48	997700	4.8
+	"Alabama"	"01"	"2013"	"2013"	"Firearm"	"GRINJ-006"	54	992553	5.4
+	"Alabama"	"01"	"2014"	"2014"	"Firearm"	"GRINJ-006"	48	985652	4.9
+	"Alabama"	"01"	"2015"	"2015"	"Firearm"	"GRINJ-006"	56	972895	5.8
+	"Alabama"	"01"	"2016"	"2016"	"Firearm"	"GRINJ-006"	66	960257	6.9
+	"Alabama"	"01"	"2017"	"2017"	"Firearm"	"GRINJ-006"	65	956863	6.8
+	"Alabama"	"01"	"2018"	"2018"	"Firearm"	"GRINJ-006"	68	951395	7.1
+	"Alabama"	"01"	"2019"	"2019"	"Firearm"	"GRINJ-006"	67	946205	7.1
+	"Alabama"	"01"	"2020"	"2020"	"Firearm"	"GRINJ-006"	73	943601	7.7
+	"Alaska"	"02"	"1999"	"1999"	"Firearm"	"GRINJ-006"	18	145060	Unreliable
+	"Alaska"	"02"	"2000"	"2000"	"Firearm"	"GRINJ-006"	37	146647	25.2
+	"Alaska"	"02"	"2001"	"2001"	"Firearm"	"GRINJ-006"	17	152057	Unreliable
+	"Alaska"	"02"	"2002"	"2002"	"Firearm"	"GRINJ-006"	24	156386	15.3
+	"Alaska"	"02"	"2003"	"2003"	"Firearm"	"GRINJ-006"	21	158741	13.2
+	"Alaska"	"02"	"2004"	"2004"	"Firearm"	"GRINJ-006"	25	161934	15.4
+	"Alaska"	"02"	"2005"	"2005"	"Firearm"	"GRINJ-006"	21	162525	12.9
+	"Alaska"	"02"	"2006"	"2006"	"Firearm"	"GRINJ-006"	21	162445	12.9
+	"Alaska"	"02"	"2007"	"2007"	"Firearm"	"GRINJ-006"	18	160478	Unreliable
+	"Alaska"	"02"	"2008"	"2008"	"Firearm"	"GRINJ-006"	28	158979	17.6
+	"Alaska"	"02"	"2009"	"2009"	"Firearm"	"GRINJ-006"	21	156408	13.4
+	"Alaska"	"02"	"2010"	"2010"	"Firearm"	"GRINJ-006"	33	157376	21.0
+	"Alaska"	"02"	"2011"	"2011"	"Firearm"	"GRINJ-006"	23	158987	14.5
+	"Alaska"	"02"	"2012"	"2012"	"Firearm"	"GRINJ-006"	23	160442	14.3
+	"Alaska"	"02"	"2013"	"2013"	"Firearm"	"GRINJ-006"	32	163007	19.6
+	"Alaska"	"02"	"2014"	"2014"	"Firearm"	"GRINJ-006"	25	161669	15.5
+	"Alaska"	"02"	"2015"	"2015"	"Firearm"	"GRINJ-006"	37	159534	23.2
+	"Alaska"	"02"	"2016"	"2016"	"Firearm"	"GRINJ-006"	29	155410	18.7
+	"Alaska"	"02"	"2017"	"2017"	"Firearm"	"GRINJ-006"	34	150982	22.5
+	"Alaska"	"02"	"2018"	"2018"	"Firearm"	"GRINJ-006"	27	149022	18.1
+	"Alaska"	"02"	"2019"	"2019"	"Firearm"	"GRINJ-006"	28	145459	19.2
+	"Alaska"	"02"	"2020"	"2020"	"Firearm"	"GRINJ-006"	30	144429	20.8
+	"Arizona"	"04"	"1999"	"1999"	"Firearm"	"GRINJ-006"	58	1074764	5.4
+	"Arizona"	"04"	"2000"	"2000"	"Firearm"	"GRINJ-006"	89	1108793	8.0
+	"Arizona"	"04"	"2001"	"2001"	"Firearm"	"GRINJ-006"	57	1152690	4.9
+	"Arizona"	"04"	"2002"	"2002"	"Firearm"	"GRINJ-006"	94	1183470	7.9
+	"Arizona"	"04"	"2003"	"2003"	"Firearm"	"GRINJ-006"	76	1207571	6.3
+	"Arizona"	"04"	"2004"	"2004"	"Firearm"	"GRINJ-006"	79	1232374	6.4
+	"Arizona"	"04"	"2005"	"2005"	"Firearm"	"GRINJ-006"	78	1260510	6.2
+	"Arizona"	"04"	"2006"	"2006"	"Firearm"	"GRINJ-006"	94	1290068	7.3
+	"Arizona"	"04"	"2007"	"2007"	"Firearm"	"GRINJ-006"	76	1316077	5.8
+	"Arizona"	"04"	"2008"	"2008"	"Firearm"	"GRINJ-006"	59	1336120	4.4
+	"Arizona"	"04"	"2009"	"2009"	"Firearm"	"GRINJ-006"	64	1346369	4.8
+	"Arizona"	"04"	"2010"	"2010"	"Firearm"	"GRINJ-006"	72	1352830	5.3
+	"Arizona"	"04"	"2011"	"2011"	"Firearm"	"GRINJ-006"	78	1367097	5.7
+	"Arizona"	"04"	"2012"	"2012"	"Firearm"	"GRINJ-006"	80	1376242	5.8
+	"Arizona"	"04"	"2013"	"2013"	"Firearm"	"GRINJ-006"	53	1391225	3.8
+	"Arizona"	"04"	"2014"	"2014"	"Firearm"	"GRINJ-006"	76	1400915	5.4
+	"Arizona"	"04"	"2015"	"2015"	"Firearm"	"GRINJ-006"	82	1405706	5.8
+	"Arizona"	"04"	"2016"	"2016"	"Firearm"	"GRINJ-006"	73	1410284	5.2
+	"Arizona"	"04"	"2017"	"2017"	"Firearm"	"GRINJ-006"	98	1417512	6.9
+	"Arizona"	"04"	"2018"	"2018"	"Firearm"	"GRINJ-006"	108	1442391	7.5
+	"Arizona"	"04"	"2019"	"2019"	"Firearm"	"GRINJ-006"	83	1450600	5.7
+	"Arizona"	"04"	"2020"	"2020"	"Firearm"	"GRINJ-006"	111	1464488	7.6
+	"Arkansas"	"05"	"1999"	"1999"	"Firearm"	"GRINJ-006"	42	572773	7.3
+	"Arkansas"	"05"	"2000"	"2000"	"Firearm"	"GRINJ-006"	37	573298	6.5
+	"Arkansas"	"05"	"2001"	"2001"	"Firearm"	"GRINJ-006"	31	581513	5.3
+	"Arkansas"	"05"	"2002"	"2002"	"Firearm"	"GRINJ-006"	36	585454	6.1
+	"Arkansas"	"05"	"2003"	"2003"	"Firearm"	"GRINJ-006"	31	588065	5.3
+	"Arkansas"	"05"	"2004"	"2004"	"Firearm"	"GRINJ-006"	18	588573	Unreliable
+	"Arkansas"	"05"	"2005"	"2005"	"Firearm"	"GRINJ-006"	43	588369	7.3
+	"Arkansas"	"05"	"2006"	"2006"	"Firearm"	"GRINJ-006"	24	589937	4.1
+	"Arkansas"	"05"	"2007"	"2007"	"Firearm"	"GRINJ-006"	20	591877	3.4
+	"Arkansas"	"05"	"2008"	"2008"	"Firearm"	"GRINJ-006"	34	594623	5.7
+	"Arkansas"	"05"	"2009"	"2009"	"Firearm"	"GRINJ-006"	36	596751	6.0
+	"Arkansas"	"05"	"2010"	"2010"	"Firearm"	"GRINJ-006"	29	601014	4.8
+	"Arkansas"	"05"	"2011"	"2011"	"Firearm"	"GRINJ-006"	37	602445	6.1
+	"Arkansas"	"05"	"2012"	"2012"	"Firearm"	"GRINJ-006"	45	603524	7.5
+	"Arkansas"	"05"	"2013"	"2013"	"Firearm"	"GRINJ-006"	44	605372	7.3
+	"Arkansas"	"05"	"2014"	"2014"	"Firearm"	"GRINJ-006"	45	603079	7.5
+	"Arkansas"	"05"	"2015"	"2015"	"Firearm"	"GRINJ-006"	33	601073	5.5
+	"Arkansas"	"05"	"2016"	"2016"	"Firearm"	"GRINJ-006"	38	599971	6.3
+	"Arkansas"	"05"	"2017"	"2017"	"Firearm"	"GRINJ-006"	50	600310	8.3
+	"Arkansas"	"05"	"2018"	"2018"	"Firearm"	"GRINJ-006"	42	600131	7.0
+	"Arkansas"	"05"	"2019"	"2019"	"Firearm"	"GRINJ-006"	55	598004	9.2
+	"Arkansas"	"05"	"2020"	"2020"	"Firearm"	"GRINJ-006"	55	598842	9.2
+	"California"	"06"	"1999"	"1999"	"Firearm"	"GRINJ-006"	174	7204176	2.4
+	"California"	"06"	"2000"	"2000"	"Firearm"	"GRINJ-006"	155	7402998	2.1
+	"California"	"06"	"2001"	"2001"	"Firearm"	"GRINJ-006"	143	7653967	1.9
+	"California"	"06"	"2002"	"2002"	"Firearm"	"GRINJ-006"	137	7822435	1.8
+	"California"	"06"	"2003"	"2003"	"Firearm"	"GRINJ-006"	166	7946528	2.1
+	"California"	"06"	"2004"	"2004"	"Firearm"	"GRINJ-006"	142	8052639	1.8
+	"California"	"06"	"2005"	"2005"	"Firearm"	"GRINJ-006"	136	8107442	1.7
+	"California"	"06"	"2006"	"2006"	"Firearm"	"GRINJ-006"	148	8123971	1.8
+	"California"	"06"	"2007"	"2007"	"Firearm"	"GRINJ-006"	132	8133732	1.6
+	"California"	"06"	"2008"	"2008"	"Firearm"	"GRINJ-006"	134	8149699	1.6
+	"California"	"06"	"2009"	"2009"	"Firearm"	"GRINJ-006"	151	8166658	1.8
+	"California"	"06"	"2010"	"2010"	"Firearm"	"GRINJ-006"	148	8180819	1.8
+	"California"	"06"	"2011"	"2011"	"Firearm"	"GRINJ-006"	126	8188043	1.5
+	"California"	"06"	"2012"	"2012"	"Firearm"	"GRINJ-006"	128	8177447	1.6
+	"California"	"06"	"2013"	"2013"	"Firearm"	"GRINJ-006"	142	8114777	1.7
+	"California"	"06"	"2014"	"2014"	"Firearm"	"GRINJ-006"	110	8077988	1.4
+	"California"	"06"	"2015"	"2015"	"Firearm"	"GRINJ-006"	149	8005394	1.9
+	"California"	"06"	"2016"	"2016"	"Firearm"	"GRINJ-006"	160	7914652	2.0
+	"California"	"06"	"2017"	"2017"	"Firearm"	"GRINJ-006"	178	7873223	2.3
+	"California"	"06"	"2018"	"2018"	"Firearm"	"GRINJ-006"	149	7805148	1.9
+	"California"	"06"	"2019"	"2019"	"Firearm"	"GRINJ-006"	141	7710110	1.8
+	"California"	"06"	"2020"	"2020"	"Firearm"	"GRINJ-006"	148	7616757	1.9
+	"Colorado"	"08"	"1999"	"1999"	"Firearm"	"GRINJ-006"	46	903191	5.1
+	"Colorado"	"08"	"2000"	"2000"	"Firearm"	"GRINJ-006"	44	924973	4.8
+	"Colorado"	"08"	"2001"	"2001"	"Firearm"	"GRINJ-006"	47	962911	4.9
+	"Colorado"	"08"	"2002"	"2002"	"Firearm"	"GRINJ-006"	64	980459	6.5
+	"Colorado"	"08"	"2003"	"2003"	"Firearm"	"GRINJ-006"	37	986210	3.8
+	"Colorado"	"08"	"2004"	"2004"	"Firearm"	"GRINJ-006"	46	989888	4.6
+	"Colorado"	"08"	"2005"	"2005"	"Firearm"	"GRINJ-006"	55	993329	5.5
+	"Colorado"	"08"	"2006"	"2006"	"Firearm"	"GRINJ-006"	65	1000759	6.5
+	"Colorado"	"08"	"2007"	"2007"	"Firearm"	"GRINJ-006"	38	1002556	3.8
+	"Colorado"	"08"	"2008"	"2008"	"Firearm"	"GRINJ-006"	46	1008822	4.6
+	"Colorado"	"08"	"2009"	"2009"	"Firearm"	"GRINJ-006"	65	1015969	6.4
+	"Colorado"	"08"	"2010"	"2010"	"Firearm"	"GRINJ-006"	58	1020744	5.7
+	"Colorado"	"08"	"2011"	"2011"	"Firearm"	"GRINJ-006"	45	1037599	4.3
+	"Colorado"	"08"	"2012"	"2012"	"Firearm"	"GRINJ-006"	53	1046326	5.1
+	"Colorado"	"08"	"2013"	"2013"	"Firearm"	"GRINJ-006"	60	1062604	5.6
+	"Colorado"	"08"	"2014"	"2014"	"Firearm"	"GRINJ-006"	72	1079848	6.7
+	"Colorado"	"08"	"2015"	"2015"	"Firearm"	"GRINJ-006"	93	1096726	8.5
+	"Colorado"	"08"	"2016"	"2016"	"Firearm"	"GRINJ-006"	80	1104695	7.2
+	"Colorado"	"08"	"2017"	"2017"	"Firearm"	"GRINJ-006"	82	1096953	7.5
+	"Colorado"	"08"	"2018"	"2018"	"Firearm"	"GRINJ-006"	92	1107256	8.3
+	"Colorado"	"08"	"2019"	"2019"	"Firearm"	"GRINJ-006"	93	1106752	8.4
+	"Colorado"	"08"	"2020"	"2020"	"Firearm"	"GRINJ-006"	106	1108080	9.6
+	"Connecticut"	"09"	"1999"	"1999"	"Firearm"	"GRINJ-006"	16	635109	Unreliable
+	"Connecticut"	"09"	"2000"	"2000"	"Firearm"	"GRINJ-006"	11	645785	Unreliable
+	"Connecticut"	"09"	"2001"	"2001"	"Firearm"	"GRINJ-006"	10	664103	Unreliable
+	"Connecticut"	"09"	"2002"	"2002"	"Firearm"	"GRINJ-006"	10	679246	Unreliable
+	"Connecticut"	"09"	"2004"	"2004"	"Firearm"	"GRINJ-006"	14	701178	Unreliable
+	"Connecticut"	"09"	"2008"	"2008"	"Firearm"	"GRINJ-006"	10	717974	Unreliable
+	"Connecticut"	"09"	"2009"	"2009"	"Firearm"	"GRINJ-006"	11	719881	Unreliable
+	"Connecticut"	"09"	"2011"	"2011"	"Firearm"	"GRINJ-006"	10	717801	Unreliable
+	"Connecticut"	"09"	"2014"	"2014"	"Firearm"	"GRINJ-006"	13	725879	Unreliable
+	"Connecticut"	"09"	"2017"	"2017"	"Firearm"	"GRINJ-006"	10	713253	Unreliable
+	"Delaware"	"10"	"2015"	"2015"	"Firearm"	"GRINJ-006"	10	180033	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"Firearm"	"GRINJ-006"	10	176366	Unreliable
+	"Florida"	"12"	"1999"	"1999"	"Firearm"	"GRINJ-006"	96	2931867	3.3
+	"Florida"	"12"	"2000"	"2000"	"Firearm"	"GRINJ-006"	106	2999401	3.5
+	"Florida"	"12"	"2001"	"2001"	"Firearm"	"GRINJ-006"	98	3129766	3.1
+	"Florida"	"12"	"2002"	"2002"	"Firearm"	"GRINJ-006"	101	3226469	3.1
+	"Florida"	"12"	"2003"	"2003"	"Firearm"	"GRINJ-006"	101	3313474	3.0
+	"Florida"	"12"	"2004"	"2004"	"Firearm"	"GRINJ-006"	104	3410857	3.0
+	"Florida"	"12"	"2005"	"2005"	"Firearm"	"GRINJ-006"	99	3488100	2.8
+	"Florida"	"12"	"2006"	"2006"	"Firearm"	"GRINJ-006"	109	3546714	3.1
+	"Florida"	"12"	"2007"	"2007"	"Firearm"	"GRINJ-006"	104	3575433	2.9
+	"Florida"	"12"	"2008"	"2008"	"Firearm"	"GRINJ-006"	108	3584169	3.0
+	"Florida"	"12"	"2009"	"2009"	"Firearm"	"GRINJ-006"	111	3580547	3.1
+	"Florida"	"12"	"2010"	"2010"	"Firearm"	"GRINJ-006"	114	3587987	3.2
+	"Florida"	"12"	"2011"	"2011"	"Firearm"	"GRINJ-006"	115	3611339	3.2
+	"Florida"	"12"	"2012"	"2012"	"Firearm"	"GRINJ-006"	138	3626153	3.8
+	"Florida"	"12"	"2013"	"2013"	"Firearm"	"GRINJ-006"	123	3617345	3.4
+	"Florida"	"12"	"2014"	"2014"	"Firearm"	"GRINJ-006"	130	3626493	3.6
+	"Florida"	"12"	"2015"	"2015"	"Firearm"	"GRINJ-006"	140	3626714	3.9
+	"Florida"	"12"	"2016"	"2016"	"Firearm"	"GRINJ-006"	125	3617192	3.5
+	"Florida"	"12"	"2017"	"2017"	"Firearm"	"GRINJ-006"	162	3654238	4.4
+	"Florida"	"12"	"2018"	"2018"	"Firearm"	"GRINJ-006"	159	3682492	4.3
+	"Florida"	"12"	"2019"	"2019"	"Firearm"	"GRINJ-006"	157	3666605	4.3
+	"Florida"	"12"	"2020"	"2020"	"Firearm"	"GRINJ-006"	188	3678316	5.1
+	"Georgia"	"13"	"1999"	"1999"	"Firearm"	"GRINJ-006"	92	1755954	5.2
+	"Georgia"	"13"	"2000"	"2000"	"Firearm"	"GRINJ-006"	96	1796232	5.3
+	"Georgia"	"13"	"2001"	"2001"	"Firearm"	"GRINJ-006"	97	1855375	5.2
+	"Georgia"	"13"	"2002"	"2002"	"Firearm"	"GRINJ-006"	72	1887930	3.8
+	"Georgia"	"13"	"2003"	"2003"	"Firearm"	"GRINJ-006"	79	1911629	4.1
+	"Georgia"	"13"	"2004"	"2004"	"Firearm"	"GRINJ-006"	76	1946991	3.9
+	"Georgia"	"13"	"2005"	"2005"	"Firearm"	"GRINJ-006"	65	1960630	3.3
+	"Georgia"	"13"	"2006"	"2006"	"Firearm"	"GRINJ-006"	54	1998782	2.7
+	"Georgia"	"13"	"2007"	"2007"	"Firearm"	"GRINJ-006"	62	2027285	3.1
+	"Georgia"	"13"	"2008"	"2008"	"Firearm"	"GRINJ-006"	77	2050211	3.8
+	"Georgia"	"13"	"2009"	"2009"	"Firearm"	"GRINJ-006"	78	2072317	3.8
+	"Georgia"	"13"	"2010"	"2010"	"Firearm"	"GRINJ-006"	89	2079763	4.3
+	"Georgia"	"13"	"2011"	"2011"	"Firearm"	"GRINJ-006"	76	2106295	3.6
+	"Georgia"	"13"	"2012"	"2012"	"Firearm"	"GRINJ-006"	74	2130490	3.5
+	"Georgia"	"13"	"2013"	"2013"	"Firearm"	"GRINJ-006"	83	2134985	3.9
+	"Georgia"	"13"	"2014"	"2014"	"Firearm"	"GRINJ-006"	89	2147633	4.1
+	"Georgia"	"13"	"2015"	"2015"	"Firearm"	"GRINJ-006"	109	2156017	5.1
+	"Georgia"	"13"	"2016"	"2016"	"Firearm"	"GRINJ-006"	127	2155508	5.9
+	"Georgia"	"13"	"2017"	"2017"	"Firearm"	"GRINJ-006"	127	2164448	5.9
+	"Georgia"	"13"	"2018"	"2018"	"Firearm"	"GRINJ-006"	125	2172780	5.8
+	"Georgia"	"13"	"2019"	"2019"	"Firearm"	"GRINJ-006"	120	2176916	5.5
+	"Georgia"	"13"	"2020"	"2020"	"Firearm"	"GRINJ-006"	150	2184994	6.9
+	"Idaho"	"16"	"1999"	"1999"	"Firearm"	"GRINJ-006"	20	308003	6.5
+	"Idaho"	"16"	"2000"	"2000"	"Firearm"	"GRINJ-006"	17	309460	Unreliable
+	"Idaho"	"16"	"2001"	"2001"	"Firearm"	"GRINJ-006"	31	316952	9.8
+	"Idaho"	"16"	"2002"	"2002"	"Firearm"	"GRINJ-006"	21	320071	6.6
+	"Idaho"	"16"	"2003"	"2003"	"Firearm"	"GRINJ-006"	17	324174	Unreliable
+	"Idaho"	"16"	"2004"	"2004"	"Firearm"	"GRINJ-006"	18	327065	Unreliable
+	"Idaho"	"16"	"2005"	"2005"	"Firearm"	"GRINJ-006"	21	330663	6.4
+	"Idaho"	"16"	"2006"	"2006"	"Firearm"	"GRINJ-006"	25	334034	7.5
+	"Idaho"	"16"	"2007"	"2007"	"Firearm"	"GRINJ-006"	28	337229	8.3
+	"Idaho"	"16"	"2008"	"2008"	"Firearm"	"GRINJ-006"	24	339089	7.1
+	"Idaho"	"16"	"2009"	"2009"	"Firearm"	"GRINJ-006"	21	339836	6.2
+	"Idaho"	"16"	"2010"	"2010"	"Firearm"	"GRINJ-006"	22	340523	6.5
+	"Idaho"	"16"	"2011"	"2011"	"Firearm"	"GRINJ-006"	27	344436	7.8
+	"Idaho"	"16"	"2012"	"2012"	"Firearm"	"GRINJ-006"	34	345325	9.8
+	"Idaho"	"16"	"2013"	"2013"	"Firearm"	"GRINJ-006"	29	346834	8.4
+	"Idaho"	"16"	"2014"	"2014"	"Firearm"	"GRINJ-006"	29	349534	8.3
+	"Idaho"	"16"	"2015"	"2015"	"Firearm"	"GRINJ-006"	31	352293	8.8
+	"Idaho"	"16"	"2016"	"2016"	"Firearm"	"GRINJ-006"	36	355768	10.1
+	"Idaho"	"16"	"2017"	"2017"	"Firearm"	"GRINJ-006"	38	362612	10.5
+	"Idaho"	"16"	"2018"	"2018"	"Firearm"	"GRINJ-006"	47	370436	12.7
+	"Idaho"	"16"	"2019"	"2019"	"Firearm"	"GRINJ-006"	38	373090	10.2
+	"Idaho"	"16"	"2020"	"2020"	"Firearm"	"GRINJ-006"	44	379885	11.6
+	"Illinois"	"17"	"1999"	"1999"	"Firearm"	"GRINJ-006"	77	2620947	2.9
+	"Illinois"	"17"	"2000"	"2000"	"Firearm"	"GRINJ-006"	64	2649942	2.4
+	"Illinois"	"17"	"2001"	"2001"	"Firearm"	"GRINJ-006"	64	2688475	2.4
+	"Illinois"	"17"	"2002"	"2002"	"Firearm"	"GRINJ-006"	63	2703864	2.3
+	"Illinois"	"17"	"2003"	"2003"	"Firearm"	"GRINJ-006"	43	2716134	1.6
+	"Illinois"	"17"	"2004"	"2004"	"Firearm"	"GRINJ-006"	47	2730968	1.7
+	"Illinois"	"17"	"2005"	"2005"	"Firearm"	"GRINJ-006"	37	2725450	1.4
+	"Illinois"	"17"	"2006"	"2006"	"Firearm"	"GRINJ-006"	40	2718190	1.5
+	"Illinois"	"17"	"2007"	"2007"	"Firearm"	"GRINJ-006"	55	2711051	2.0
+	"Illinois"	"17"	"2008"	"2008"	"Firearm"	"GRINJ-006"	44	2699962	1.6
+	"Illinois"	"17"	"2009"	"2009"	"Firearm"	"GRINJ-006"	48	2689777	1.8
+	"Illinois"	"17"	"2010"	"2010"	"Firearm"	"GRINJ-006"	43	2680504	1.6
+	"Illinois"	"17"	"2011"	"2011"	"Firearm"	"GRINJ-006"	49	2667219	1.8
+	"Illinois"	"17"	"2012"	"2012"	"Firearm"	"GRINJ-006"	51	2653520	1.9
+	"Illinois"	"17"	"2013"	"2013"	"Firearm"	"GRINJ-006"	52	2641434	2.0
+	"Illinois"	"17"	"2014"	"2014"	"Firearm"	"GRINJ-006"	72	2621623	2.7
+	"Illinois"	"17"	"2015"	"2015"	"Firearm"	"GRINJ-006"	53	2593315	2.0
+	"Illinois"	"17"	"2016"	"2016"	"Firearm"	"GRINJ-006"	46	2562104	1.8
+	"Illinois"	"17"	"2017"	"2017"	"Firearm"	"GRINJ-006"	63	2528543	2.5
+	"Illinois"	"17"	"2018"	"2018"	"Firearm"	"GRINJ-006"	59	2494855	2.4
+	"Illinois"	"17"	"2019"	"2019"	"Firearm"	"GRINJ-006"	53	2458625	2.2
+	"Illinois"	"17"	"2020"	"2020"	"Firearm"	"GRINJ-006"	70	2426374	2.9
+	"Indiana"	"18"	"1999"	"1999"	"Firearm"	"GRINJ-006"	58	1314824	4.4
+	"Indiana"	"18"	"2000"	"2000"	"Firearm"	"GRINJ-006"	76	1322629	5.7
+	"Indiana"	"18"	"2001"	"2001"	"Firearm"	"GRINJ-006"	53	1344770	3.9
+	"Indiana"	"18"	"2002"	"2002"	"Firearm"	"GRINJ-006"	63	1353694	4.7
+	"Indiana"	"18"	"2003"	"2003"	"Firearm"	"GRINJ-006"	45	1364110	3.3
+	"Indiana"	"18"	"2004"	"2004"	"Firearm"	"GRINJ-006"	42	1369725	3.1
+	"Indiana"	"18"	"2005"	"2005"	"Firearm"	"GRINJ-006"	57	1371308	4.2
+	"Indiana"	"18"	"2006"	"2006"	"Firearm"	"GRINJ-006"	52	1374775	3.8
+	"Indiana"	"18"	"2007"	"2007"	"Firearm"	"GRINJ-006"	43	1373197	3.1
+	"Indiana"	"18"	"2008"	"2008"	"Firearm"	"GRINJ-006"	42	1375965	3.1
+	"Indiana"	"18"	"2009"	"2009"	"Firearm"	"GRINJ-006"	57	1378992	4.1
+	"Indiana"	"18"	"2010"	"2010"	"Firearm"	"GRINJ-006"	49	1379712	3.6
+	"Indiana"	"18"	"2011"	"2011"	"Firearm"	"GRINJ-006"	43	1384420	3.1
+	"Indiana"	"18"	"2012"	"2012"	"Firearm"	"GRINJ-006"	64	1385784	4.6
+	"Indiana"	"18"	"2013"	"2013"	"Firearm"	"GRINJ-006"	57	1388005	4.1
+	"Indiana"	"18"	"2014"	"2014"	"Firearm"	"GRINJ-006"	69	1391264	5.0
+	"Indiana"	"18"	"2015"	"2015"	"Firearm"	"GRINJ-006"	71	1387462	5.1
+	"Indiana"	"18"	"2016"	"2016"	"Firearm"	"GRINJ-006"	85	1380297	6.2
+	"Indiana"	"18"	"2017"	"2017"	"Firearm"	"GRINJ-006"	100	1378325	7.3
+	"Indiana"	"18"	"2018"	"2018"	"Firearm"	"GRINJ-006"	93	1375457	6.8
+	"Indiana"	"18"	"2019"	"2019"	"Firearm"	"GRINJ-006"	73	1377437	5.3
+	"Indiana"	"18"	"2020"	"2020"	"Firearm"	"GRINJ-006"	102	1372961	7.4
+	"Iowa"	"19"	"1999"	"1999"	"Firearm"	"GRINJ-006"	33	638423	5.2
+	"Iowa"	"19"	"2000"	"2000"	"Firearm"	"GRINJ-006"	29	640630	4.5
+	"Iowa"	"19"	"2001"	"2001"	"Firearm"	"GRINJ-006"	38	645751	5.9
+	"Iowa"	"19"	"2002"	"2002"	"Firearm"	"GRINJ-006"	28	648005	4.3
+	"Iowa"	"19"	"2003"	"2003"	"Firearm"	"GRINJ-006"	27	650629	4.1
+	"Iowa"	"19"	"2004"	"2004"	"Firearm"	"GRINJ-006"	31	652035	4.8
+	"Iowa"	"19"	"2005"	"2005"	"Firearm"	"GRINJ-006"	24	649119	3.7
+	"Iowa"	"19"	"2006"	"2006"	"Firearm"	"GRINJ-006"	27	646896	4.2
+	"Iowa"	"19"	"2007"	"2007"	"Firearm"	"GRINJ-006"	21	639373	3.3
+	"Iowa"	"19"	"2008"	"2008"	"Firearm"	"GRINJ-006"	31	635902	4.9
+	"Iowa"	"19"	"2009"	"2009"	"Firearm"	"GRINJ-006"	20	633212	3.2
+	"Iowa"	"19"	"2010"	"2010"	"Firearm"	"GRINJ-006"	21	631091	3.3
+	"Iowa"	"19"	"2011"	"2011"	"Firearm"	"GRINJ-006"	29	634821	4.6
+	"Iowa"	"19"	"2012"	"2012"	"Firearm"	"GRINJ-006"	23	637609	3.6
+	"Iowa"	"19"	"2013"	"2013"	"Firearm"	"GRINJ-006"	34	641518	5.3
+	"Iowa"	"19"	"2014"	"2014"	"Firearm"	"GRINJ-006"	30	645802	4.6
+	"Iowa"	"19"	"2015"	"2015"	"Firearm"	"GRINJ-006"	31	648605	4.8
+	"Iowa"	"19"	"2016"	"2016"	"Firearm"	"GRINJ-006"	29	649475	4.5
+	"Iowa"	"19"	"2017"	"2017"	"Firearm"	"GRINJ-006"	39	650790	6.0
+	"Iowa"	"19"	"2018"	"2018"	"Firearm"	"GRINJ-006"	39	650464	6.0
+	"Iowa"	"19"	"2019"	"2019"	"Firearm"	"GRINJ-006"	39	644754	6.0
+	"Iowa"	"19"	"2020"	"2020"	"Firearm"	"GRINJ-006"	36	646415	5.6
+	"Kansas"	"20"	"1999"	"1999"	"Firearm"	"GRINJ-006"	36	600567	6.0
+	"Kansas"	"20"	"2000"	"2000"	"Firearm"	"GRINJ-006"	25	604303	4.1
+	"Kansas"	"20"	"2001"	"2001"	"Firearm"	"GRINJ-006"	36	612296	5.9
+	"Kansas"	"20"	"2002"	"2002"	"Firearm"	"GRINJ-006"	34	616893	5.5
+	"Kansas"	"20"	"2003"	"2003"	"Firearm"	"GRINJ-006"	34	619356	5.5
+	"Kansas"	"20"	"2004"	"2004"	"Firearm"	"GRINJ-006"	34	619756	5.5
+	"Kansas"	"20"	"2005"	"2005"	"Firearm"	"GRINJ-006"	22	618515	3.6
+	"Kansas"	"20"	"2006"	"2006"	"Firearm"	"GRINJ-006"	29	617168	4.7
+	"Kansas"	"20"	"2007"	"2007"	"Firearm"	"GRINJ-006"	42	610173	6.9
+	"Kansas"	"20"	"2008"	"2008"	"Firearm"	"GRINJ-006"	32	609205	5.3
+	"Kansas"	"20"	"2009"	"2009"	"Firearm"	"GRINJ-006"	26	607336	4.3
+	"Kansas"	"20"	"2010"	"2010"	"Firearm"	"GRINJ-006"	26	607159	4.3
+	"Kansas"	"20"	"2011"	"2011"	"Firearm"	"GRINJ-006"	40	611556	6.5
+	"Kansas"	"20"	"2012"	"2012"	"Firearm"	"GRINJ-006"	44	614494	7.2
+	"Kansas"	"20"	"2013"	"2013"	"Firearm"	"GRINJ-006"	29	619275	4.7
+	"Kansas"	"20"	"2014"	"2014"	"Firearm"	"GRINJ-006"	31	620939	5.0
+	"Kansas"	"20"	"2015"	"2015"	"Firearm"	"GRINJ-006"	25	623710	4.0
+	"Kansas"	"20"	"2016"	"2016"	"Firearm"	"GRINJ-006"	37	616154	6.0
+	"Kansas"	"20"	"2017"	"2017"	"Firearm"	"GRINJ-006"	51	615864	8.3
+	"Kansas"	"20"	"2018"	"2018"	"Firearm"	"GRINJ-006"	52	613740	8.5
+	"Kansas"	"20"	"2019"	"2019"	"Firearm"	"GRINJ-006"	50	612716	8.2
+	"Kansas"	"20"	"2020"	"2020"	"Firearm"	"GRINJ-006"	66	611075	10.8
+	"Kentucky"	"21"	"1999"	"1999"	"Firearm"	"GRINJ-006"	31	852217	3.6
+	"Kentucky"	"21"	"2000"	"2000"	"Firearm"	"GRINJ-006"	52	851517	6.1
+	"Kentucky"	"21"	"2001"	"2001"	"Firearm"	"GRINJ-006"	46	863764	5.3
+	"Kentucky"	"21"	"2002"	"2002"	"Firearm"	"GRINJ-006"	47	869704	5.4
+	"Kentucky"	"21"	"2003"	"2003"	"Firearm"	"GRINJ-006"	49	872381	5.6
+	"Kentucky"	"21"	"2004"	"2004"	"Firearm"	"GRINJ-006"	48	874408	5.5
+	"Kentucky"	"21"	"2005"	"2005"	"Firearm"	"GRINJ-006"	36	874321	4.1
+	"Kentucky"	"21"	"2006"	"2006"	"Firearm"	"GRINJ-006"	43	867823	5.0
+	"Kentucky"	"21"	"2007"	"2007"	"Firearm"	"GRINJ-006"	39	869390	4.5
+	"Kentucky"	"21"	"2008"	"2008"	"Firearm"	"GRINJ-006"	34	868056	3.9
+	"Kentucky"	"21"	"2009"	"2009"	"Firearm"	"GRINJ-006"	42	869573	4.8
+	"Kentucky"	"21"	"2010"	"2010"	"Firearm"	"GRINJ-006"	35	870917	4.0
+	"Kentucky"	"21"	"2011"	"2011"	"Firearm"	"GRINJ-006"	47	877158	5.4
+	"Kentucky"	"21"	"2012"	"2012"	"Firearm"	"GRINJ-006"	65	878676	7.4
+	"Kentucky"	"21"	"2013"	"2013"	"Firearm"	"GRINJ-006"	50	881433	5.7
+	"Kentucky"	"21"	"2014"	"2014"	"Firearm"	"GRINJ-006"	42	884616	4.7
+	"Kentucky"	"21"	"2015"	"2015"	"Firearm"	"GRINJ-006"	65	878080	7.4
+	"Kentucky"	"21"	"2016"	"2016"	"Firearm"	"GRINJ-006"	64	875505	7.3
+	"Kentucky"	"21"	"2017"	"2017"	"Firearm"	"GRINJ-006"	61	875008	7.0
+	"Kentucky"	"21"	"2018"	"2018"	"Firearm"	"GRINJ-006"	66	874423	7.5
+	"Kentucky"	"21"	"2019"	"2019"	"Firearm"	"GRINJ-006"	47	867798	5.4
+	"Kentucky"	"21"	"2020"	"2020"	"Firearm"	"GRINJ-006"	79	866182	9.1
+	"Louisiana"	"22"	"1999"	"1999"	"Firearm"	"GRINJ-006"	62	1041498	6.0
+	"Louisiana"	"22"	"2000"	"2000"	"Firearm"	"GRINJ-006"	53	1039428	5.1
+	"Louisiana"	"22"	"2001"	"2001"	"Firearm"	"GRINJ-006"	53	1047914	5.1
+	"Louisiana"	"22"	"2002"	"2002"	"Firearm"	"GRINJ-006"	65	1052216	6.2
+	"Louisiana"	"22"	"2003"	"2003"	"Firearm"	"GRINJ-006"	59	1055203	5.6
+	"Louisiana"	"22"	"2004"	"2004"	"Firearm"	"GRINJ-006"	59	1055526	5.6
+	"Louisiana"	"22"	"2005"	"2005"	"Firearm"	"GRINJ-006"	68	1046243	6.5
+	"Louisiana"	"22"	"2006"	"2006"	"Firearm"	"GRINJ-006"	46	961563	4.8
+	"Louisiana"	"22"	"2007"	"2007"	"Firearm"	"GRINJ-006"	51	968291	5.3
+	"Louisiana"	"22"	"2008"	"2008"	"Firearm"	"GRINJ-006"	54	969194	5.6
+	"Louisiana"	"22"	"2009"	"2009"	"Firearm"	"GRINJ-006"	39	970778	4.0
+	"Louisiana"	"22"	"2010"	"2010"	"Firearm"	"GRINJ-006"	46	971924	4.7
+	"Louisiana"	"22"	"2011"	"2011"	"Firearm"	"GRINJ-006"	53	971915	5.5
+	"Louisiana"	"22"	"2012"	"2012"	"Firearm"	"GRINJ-006"	39	968232	4.0
+	"Louisiana"	"22"	"2013"	"2013"	"Firearm"	"GRINJ-006"	61	964108	6.3
+	"Louisiana"	"22"	"2014"	"2014"	"Firearm"	"GRINJ-006"	51	957582	5.3
+	"Louisiana"	"22"	"2015"	"2015"	"Firearm"	"GRINJ-006"	56	947102	5.9
+	"Louisiana"	"22"	"2016"	"2016"	"Firearm"	"GRINJ-006"	49	934719	5.2
+	"Louisiana"	"22"	"2017"	"2017"	"Firearm"	"GRINJ-006"	65	925522	7.0
+	"Louisiana"	"22"	"2018"	"2018"	"Firearm"	"GRINJ-006"	62	912679	6.8
+	"Louisiana"	"22"	"2019"	"2019"	"Firearm"	"GRINJ-006"	61	903987	6.7
+	"Louisiana"	"22"	"2020"	"2020"	"Firearm"	"GRINJ-006"	57	900065	6.3
+	"Maine"	"23"	"2000"	"2000"	"Firearm"	"GRINJ-006"	12	251393	Unreliable
+	"Maine"	"23"	"2001"	"2001"	"Firearm"	"GRINJ-006"	13	256140	Unreliable
+	"Maine"	"23"	"2002"	"2002"	"Firearm"	"GRINJ-006"	10	259584	Unreliable
+	"Maine"	"23"	"2004"	"2004"	"Firearm"	"GRINJ-006"	21	262246	8.0
+	"Maine"	"23"	"2007"	"2007"	"Firearm"	"GRINJ-006"	11	256199	Unreliable
+	"Maine"	"23"	"2008"	"2008"	"Firearm"	"GRINJ-006"	10	253284	Unreliable
+	"Maine"	"23"	"2010"	"2010"	"Firearm"	"GRINJ-006"	12	246969	Unreliable
+	"Maine"	"23"	"2011"	"2011"	"Firearm"	"GRINJ-006"	10	244220	Unreliable
+	"Maine"	"23"	"2012"	"2012"	"Firearm"	"GRINJ-006"	13	241603	Unreliable
+	"Maine"	"23"	"2013"	"2013"	"Firearm"	"GRINJ-006"	18	237791	Unreliable
+	"Maine"	"23"	"2014"	"2014"	"Firearm"	"GRINJ-006"	15	235639	Unreliable
+	"Maine"	"23"	"2016"	"2016"	"Firearm"	"GRINJ-006"	19	230825	Unreliable
+	"Maine"	"23"	"2017"	"2017"	"Firearm"	"GRINJ-006"	17	229368	Unreliable
+	"Maine"	"23"	"2018"	"2018"	"Firearm"	"GRINJ-006"	15	225650	Unreliable
+	"Maine"	"23"	"2019"	"2019"	"Firearm"	"GRINJ-006"	17	224813	Unreliable
+	"Maine"	"23"	"2020"	"2020"	"Firearm"	"GRINJ-006"	13	223451	Unreliable
+	"Maryland"	"24"	"1999"	"1999"	"Firearm"	"GRINJ-006"	37	1041603	3.6
+	"Maryland"	"24"	"2000"	"2000"	"Firearm"	"GRINJ-006"	38	1062383	3.6
+	"Maryland"	"24"	"2001"	"2001"	"Firearm"	"GRINJ-006"	29	1100171	2.6
+	"Maryland"	"24"	"2002"	"2002"	"Firearm"	"GRINJ-006"	36	1127935	3.2
+	"Maryland"	"24"	"2003"	"2003"	"Firearm"	"GRINJ-006"	40	1148516	3.5
+	"Maryland"	"24"	"2004"	"2004"	"Firearm"	"GRINJ-006"	26	1163053	2.2
+	"Maryland"	"24"	"2005"	"2005"	"Firearm"	"GRINJ-006"	25	1174530	2.1
+	"Maryland"	"24"	"2006"	"2006"	"Firearm"	"GRINJ-006"	31	1179844	2.6
+	"Maryland"	"24"	"2007"	"2007"	"Firearm"	"GRINJ-006"	25	1181254	2.1
+	"Maryland"	"24"	"2008"	"2008"	"Firearm"	"GRINJ-006"	21	1176652	1.8
+	"Maryland"	"24"	"2009"	"2009"	"Firearm"	"GRINJ-006"	35	1177534	3.0
+	"Maryland"	"24"	"2010"	"2010"	"Firearm"	"GRINJ-006"	21	1178968	1.8
+	"Maryland"	"24"	"2011"	"2011"	"Firearm"	"GRINJ-006"	30	1176201	2.6
+	"Maryland"	"24"	"2012"	"2012"	"Firearm"	"GRINJ-006"	29	1177023	2.5
+	"Maryland"	"24"	"2013"	"2013"	"Firearm"	"GRINJ-006"	36	1168731	3.1
+	"Maryland"	"24"	"2014"	"2014"	"Firearm"	"GRINJ-006"	25	1168027	2.1
+	"Maryland"	"24"	"2015"	"2015"	"Firearm"	"GRINJ-006"	16	1158605	Unreliable
+	"Maryland"	"24"	"2016"	"2016"	"Firearm"	"GRINJ-006"	21	1152298	1.8
+	"Maryland"	"24"	"2017"	"2017"	"Firearm"	"GRINJ-006"	25	1147987	2.2
+	"Maryland"	"24"	"2018"	"2018"	"Firearm"	"GRINJ-006"	37	1136560	3.3
+	"Maryland"	"24"	"2019"	"2019"	"Firearm"	"GRINJ-006"	24	1128344	2.1
+	"Maryland"	"24"	"2020"	"2020"	"Firearm"	"GRINJ-006"	26	1124051	2.3
+	"Massachusetts"	"25"	"1999"	"1999"	"Firearm"	"GRINJ-006"	17	1227425	Unreliable
+	"Massachusetts"	"25"	"2000"	"2000"	"Firearm"	"GRINJ-006"	12	1251263	Unreliable
+	"Massachusetts"	"25"	"2001"	"2001"	"Firearm"	"GRINJ-006"	17	1283654	Unreliable
+	"Massachusetts"	"25"	"2003"	"2003"	"Firearm"	"GRINJ-006"	14	1314365	Unreliable
+	"Massachusetts"	"25"	"2004"	"2004"	"Firearm"	"GRINJ-006"	12	1317947	Unreliable
+	"Massachusetts"	"25"	"2007"	"2007"	"Firearm"	"GRINJ-006"	11	1334977	Unreliable
+	"Massachusetts"	"25"	"2008"	"2008"	"Firearm"	"GRINJ-006"	12	1338096	Unreliable
+	"Massachusetts"	"25"	"2010"	"2010"	"Firearm"	"GRINJ-006"	13	1344037	Unreliable
+	"Massachusetts"	"25"	"2011"	"2011"	"Firearm"	"GRINJ-006"	11	1336955	Unreliable
+	"Massachusetts"	"25"	"2013"	"2013"	"Firearm"	"GRINJ-006"	13	1339155	Unreliable
+	"Massachusetts"	"25"	"2014"	"2014"	"Firearm"	"GRINJ-006"	12	1346751	Unreliable
+	"Massachusetts"	"25"	"2016"	"2016"	"Firearm"	"GRINJ-006"	15	1347738	Unreliable
+	"Massachusetts"	"25"	"2017"	"2017"	"Firearm"	"GRINJ-006"	22	1339467	1.6
+	"Massachusetts"	"25"	"2018"	"2018"	"Firearm"	"GRINJ-006"	11	1338615	Unreliable
+	"Massachusetts"	"25"	"2019"	"2019"	"Firearm"	"GRINJ-006"	13	1317709	Unreliable
+	"Massachusetts"	"25"	"2020"	"2020"	"Firearm"	"GRINJ-006"	14	1305727	Unreliable
+	"Michigan"	"26"	"1999"	"1999"	"Firearm"	"GRINJ-006"	80	2094679	3.8
+	"Michigan"	"26"	"2000"	"2000"	"Firearm"	"GRINJ-006"	76	2110718	3.6
+	"Michigan"	"26"	"2001"	"2001"	"Firearm"	"GRINJ-006"	79	2155104	3.7
+	"Michigan"	"26"	"2002"	"2002"	"Firearm"	"GRINJ-006"	75	2181302	3.4
+	"Michigan"	"26"	"2003"	"2003"	"Firearm"	"GRINJ-006"	61	2198034	2.8
+	"Michigan"	"26"	"2004"	"2004"	"Firearm"	"GRINJ-006"	68	2200902	3.1
+	"Michigan"	"26"	"2005"	"2005"	"Firearm"	"GRINJ-006"	56	2192209	2.6
+	"Michigan"	"26"	"2006"	"2006"	"Firearm"	"GRINJ-006"	59	2173771	2.7
+	"Michigan"	"26"	"2007"	"2007"	"Firearm"	"GRINJ-006"	53	2149266	2.5
+	"Michigan"	"26"	"2008"	"2008"	"Firearm"	"GRINJ-006"	57	2123063	2.7
+	"Michigan"	"26"	"2009"	"2009"	"Firearm"	"GRINJ-006"	61	2099541	2.9
+	"Michigan"	"26"	"2010"	"2010"	"Firearm"	"GRINJ-006"	80	2083887	3.8
+	"Michigan"	"26"	"2011"	"2011"	"Firearm"	"GRINJ-006"	75	2081132	3.6
+	"Michigan"	"26"	"2012"	"2012"	"Firearm"	"GRINJ-006"	89	2070270	4.3
+	"Michigan"	"26"	"2013"	"2013"	"Firearm"	"GRINJ-006"	82	2062969	4.0
+	"Michigan"	"26"	"2014"	"2014"	"Firearm"	"GRINJ-006"	95	2051740	4.6
+	"Michigan"	"26"	"2015"	"2015"	"Firearm"	"GRINJ-006"	77	2024700	3.8
+	"Michigan"	"26"	"2016"	"2016"	"Firearm"	"GRINJ-006"	97	2000414	4.8
+	"Michigan"	"26"	"2017"	"2017"	"Firearm"	"GRINJ-006"	90	1986205	4.5
+	"Michigan"	"26"	"2018"	"2018"	"Firearm"	"GRINJ-006"	118	1967796	6.0
+	"Michigan"	"26"	"2019"	"2019"	"Firearm"	"GRINJ-006"	82	1936689	4.2
+	"Michigan"	"26"	"2020"	"2020"	"Firearm"	"GRINJ-006"	98	1910530	5.1
+	"Minnesota"	"27"	"1999"	"1999"	"Firearm"	"GRINJ-006"	51	1059241	4.8
+	"Minnesota"	"27"	"2000"	"2000"	"Firearm"	"GRINJ-006"	49	1071840	4.6
+	"Minnesota"	"27"	"2001"	"2001"	"Firearm"	"GRINJ-006"	43	1094221	3.9
+	"Minnesota"	"27"	"2002"	"2002"	"Firearm"	"GRINJ-006"	39	1105885	3.5
+	"Minnesota"	"27"	"2003"	"2003"	"Firearm"	"GRINJ-006"	45	1114523	4.0
+	"Minnesota"	"27"	"2004"	"2004"	"Firearm"	"GRINJ-006"	55	1115817	4.9
+	"Minnesota"	"27"	"2005"	"2005"	"Firearm"	"GRINJ-006"	44	1113687	4.0
+	"Minnesota"	"27"	"2006"	"2006"	"Firearm"	"GRINJ-006"	26	1112562	2.3
+	"Minnesota"	"27"	"2007"	"2007"	"Firearm"	"GRINJ-006"	36	1101646	3.3
+	"Minnesota"	"27"	"2008"	"2008"	"Firearm"	"GRINJ-006"	40	1093907	3.7
+	"Minnesota"	"27"	"2009"	"2009"	"Firearm"	"GRINJ-006"	41	1084225	3.8
+	"Minnesota"	"27"	"2010"	"2010"	"Firearm"	"GRINJ-006"	39	1075822	3.6
+	"Minnesota"	"27"	"2011"	"2011"	"Firearm"	"GRINJ-006"	42	1073811	3.9
+	"Minnesota"	"27"	"2012"	"2012"	"Firearm"	"GRINJ-006"	43	1073413	4.0
+	"Minnesota"	"27"	"2013"	"2013"	"Firearm"	"GRINJ-006"	49	1075226	4.6
+	"Minnesota"	"27"	"2014"	"2014"	"Firearm"	"GRINJ-006"	48	1079170	4.4
+	"Minnesota"	"27"	"2015"	"2015"	"Firearm"	"GRINJ-006"	48	1079956	4.4
+	"Minnesota"	"27"	"2016"	"2016"	"Firearm"	"GRINJ-006"	48	1083912	4.4
+	"Minnesota"	"27"	"2017"	"2017"	"Firearm"	"GRINJ-006"	55	1088541	5.1
+	"Minnesota"	"27"	"2018"	"2018"	"Firearm"	"GRINJ-006"	62	1088526	5.7
+	"Minnesota"	"27"	"2019"	"2019"	"Firearm"	"GRINJ-006"	53	1086807	4.9
+	"Minnesota"	"27"	"2020"	"2020"	"Firearm"	"GRINJ-006"	38	1085630	3.5
+	"Mississippi"	"28"	"1999"	"1999"	"Firearm"	"GRINJ-006"	35	664896	5.3
+	"Mississippi"	"28"	"2000"	"2000"	"Firearm"	"GRINJ-006"	44	664877	6.6
+	"Mississippi"	"28"	"2001"	"2001"	"Firearm"	"GRINJ-006"	35	669304	5.2
+	"Mississippi"	"28"	"2002"	"2002"	"Firearm"	"GRINJ-006"	48	669446	7.2
+	"Mississippi"	"28"	"2003"	"2003"	"Firearm"	"GRINJ-006"	21	670418	3.1
+	"Mississippi"	"28"	"2004"	"2004"	"Firearm"	"GRINJ-006"	34	670477	5.1
+	"Mississippi"	"28"	"2005"	"2005"	"Firearm"	"GRINJ-006"	32	665484	4.8
+	"Mississippi"	"28"	"2006"	"2006"	"Firearm"	"GRINJ-006"	21	656966	3.2
+	"Mississippi"	"28"	"2007"	"2007"	"Firearm"	"GRINJ-006"	35	652710	5.4
+	"Mississippi"	"28"	"2008"	"2008"	"Firearm"	"GRINJ-006"	39	649054	6.0
+	"Mississippi"	"28"	"2009"	"2009"	"Firearm"	"GRINJ-006"	26	645602	4.0
+	"Mississippi"	"28"	"2010"	"2010"	"Firearm"	"GRINJ-006"	23	643761	3.6
+	"Mississippi"	"28"	"2011"	"2011"	"Firearm"	"GRINJ-006"	23	645462	3.6
+	"Mississippi"	"28"	"2012"	"2012"	"Firearm"	"GRINJ-006"	28	644028	4.3
+	"Mississippi"	"28"	"2013"	"2013"	"Firearm"	"GRINJ-006"	29	642685	4.5
+	"Mississippi"	"28"	"2014"	"2014"	"Firearm"	"GRINJ-006"	31	638720	4.9
+	"Mississippi"	"28"	"2015"	"2015"	"Firearm"	"GRINJ-006"	40	630878	6.3
+	"Mississippi"	"28"	"2016"	"2016"	"Firearm"	"GRINJ-006"	34	624668	5.4
+	"Mississippi"	"28"	"2017"	"2017"	"Firearm"	"GRINJ-006"	31	620958	5.0
+	"Mississippi"	"28"	"2018"	"2018"	"Firearm"	"GRINJ-006"	51	619621	8.2
+	"Mississippi"	"28"	"2019"	"2019"	"Firearm"	"GRINJ-006"	45	609149	7.4
+	"Mississippi"	"28"	"2020"	"2020"	"Firearm"	"GRINJ-006"	40	603342	6.6
+	"Missouri"	"29"	"1999"	"1999"	"Firearm"	"GRINJ-006"	70	1186169	5.9
+	"Missouri"	"29"	"2000"	"2000"	"Firearm"	"GRINJ-006"	61	1194874	5.1
+	"Missouri"	"29"	"2001"	"2001"	"Firearm"	"GRINJ-006"	62	1218143	5.1
+	"Missouri"	"29"	"2002"	"2002"	"Firearm"	"GRINJ-006"	49	1231972	4.0
+	"Missouri"	"29"	"2003"	"2003"	"Firearm"	"GRINJ-006"	51	1243756	4.1
+	"Missouri"	"29"	"2004"	"2004"	"Firearm"	"GRINJ-006"	46	1251209	3.7
+	"Missouri"	"29"	"2005"	"2005"	"Firearm"	"GRINJ-006"	50	1251379	4.0
+	"Missouri"	"29"	"2006"	"2006"	"Firearm"	"GRINJ-006"	49	1249610	3.9
+	"Missouri"	"29"	"2007"	"2007"	"Firearm"	"GRINJ-006"	46	1244506	3.7
+	"Missouri"	"29"	"2008"	"2008"	"Firearm"	"GRINJ-006"	69	1240748	5.6
+	"Missouri"	"29"	"2009"	"2009"	"Firearm"	"GRINJ-006"	49	1237095	4.0
+	"Missouri"	"29"	"2010"	"2010"	"Firearm"	"GRINJ-006"	55	1234000	4.5
+	"Missouri"	"29"	"2011"	"2011"	"Firearm"	"GRINJ-006"	51	1231173	4.1
+	"Missouri"	"29"	"2012"	"2012"	"Firearm"	"GRINJ-006"	67	1226766	5.5
+	"Missouri"	"29"	"2013"	"2013"	"Firearm"	"GRINJ-006"	58	1224366	4.7
+	"Missouri"	"29"	"2014"	"2014"	"Firearm"	"GRINJ-006"	58	1222408	4.7
+	"Missouri"	"29"	"2015"	"2015"	"Firearm"	"GRINJ-006"	67	1216537	5.5
+	"Missouri"	"29"	"2016"	"2016"	"Firearm"	"GRINJ-006"	100	1206911	8.3
+	"Missouri"	"29"	"2017"	"2017"	"Firearm"	"GRINJ-006"	116	1198345	9.7
+	"Missouri"	"29"	"2018"	"2018"	"Firearm"	"GRINJ-006"	97	1192555	8.1
+	"Missouri"	"29"	"2019"	"2019"	"Firearm"	"GRINJ-006"	100	1185584	8.4
+	"Missouri"	"29"	"2020"	"2020"	"Firearm"	"GRINJ-006"	105	1182721	8.9
+	"Montana"	"30"	"1999"	"1999"	"Firearm"	"GRINJ-006"	21	199220	10.5
+	"Montana"	"30"	"2000"	"2000"	"Firearm"	"GRINJ-006"	20	198987	10.1
+	"Montana"	"30"	"2001"	"2001"	"Firearm"	"GRINJ-006"	16	201971	Unreliable
+	"Montana"	"30"	"2002"	"2002"	"Firearm"	"GRINJ-006"	18	203547	Unreliable
+	"Montana"	"30"	"2003"	"2003"	"Firearm"	"GRINJ-006"	19	205446	Unreliable
+	"Montana"	"30"	"2004"	"2004"	"Firearm"	"GRINJ-006"	20	205679	9.7
+	"Montana"	"30"	"2005"	"2005"	"Firearm"	"GRINJ-006"	21	205745	10.2
+	"Montana"	"30"	"2006"	"2006"	"Firearm"	"GRINJ-006"	17	205065	Unreliable
+	"Montana"	"30"	"2007"	"2007"	"Firearm"	"GRINJ-006"	16	201802	Unreliable
+	"Montana"	"30"	"2008"	"2008"	"Firearm"	"GRINJ-006"	21	200225	10.5
+	"Montana"	"30"	"2009"	"2009"	"Firearm"	"GRINJ-006"	22	197233	11.2
+	"Montana"	"30"	"2010"	"2010"	"Firearm"	"GRINJ-006"	18	194986	Unreliable
+	"Montana"	"30"	"2011"	"2011"	"Firearm"	"GRINJ-006"	21	196984	10.7
+	"Montana"	"30"	"2012"	"2012"	"Firearm"	"GRINJ-006"	19	197459	Unreliable
+	"Montana"	"30"	"2013"	"2013"	"Firearm"	"GRINJ-006"	27	199704	13.5
+	"Montana"	"30"	"2014"	"2014"	"Firearm"	"GRINJ-006"	20	200855	10.0
+	"Montana"	"30"	"2015"	"2015"	"Firearm"	"GRINJ-006"	26	201169	12.9
+	"Montana"	"30"	"2016"	"2016"	"Firearm"	"GRINJ-006"	26	200005	13.0
+	"Montana"	"30"	"2017"	"2017"	"Firearm"	"GRINJ-006"	27	200404	13.5
+	"Montana"	"30"	"2018"	"2018"	"Firearm"	"GRINJ-006"	20	201817	9.9
+	"Montana"	"30"	"2019"	"2019"	"Firearm"	"GRINJ-006"	29	201320	14.4
+	"Montana"	"30"	"2020"	"2020"	"Firearm"	"GRINJ-006"	31	202927	15.3
+	"Nebraska"	"31"	"1999"	"1999"	"Firearm"	"GRINJ-006"	23	382969	6.0
+	"Nebraska"	"31"	"2000"	"2000"	"Firearm"	"GRINJ-006"	22	384174	5.7
+	"Nebraska"	"31"	"2001"	"2001"	"Firearm"	"GRINJ-006"	20	388614	5.1
+	"Nebraska"	"31"	"2002"	"2002"	"Firearm"	"GRINJ-006"	17	391333	Unreliable
+	"Nebraska"	"31"	"2003"	"2003"	"Firearm"	"GRINJ-006"	19	393442	Unreliable
+	"Nebraska"	"31"	"2004"	"2004"	"Firearm"	"GRINJ-006"	19	394265	Unreliable
+	"Nebraska"	"31"	"2005"	"2005"	"Firearm"	"GRINJ-006"	19	394534	Unreliable
+	"Nebraska"	"31"	"2006"	"2006"	"Firearm"	"GRINJ-006"	21	392137	5.4
+	"Nebraska"	"31"	"2007"	"2007"	"Firearm"	"GRINJ-006"	17	387374	Unreliable
+	"Nebraska"	"31"	"2008"	"2008"	"Firearm"	"GRINJ-006"	16	384305	Unreliable
+	"Nebraska"	"31"	"2009"	"2009"	"Firearm"	"GRINJ-006"	16	382208	Unreliable
+	"Nebraska"	"31"	"2011"	"2011"	"Firearm"	"GRINJ-006"	15	383813	Unreliable
+	"Nebraska"	"31"	"2012"	"2012"	"Firearm"	"GRINJ-006"	13	385236	Unreliable
+	"Nebraska"	"31"	"2013"	"2013"	"Firearm"	"GRINJ-006"	14	389978	Unreliable
+	"Nebraska"	"31"	"2014"	"2014"	"Firearm"	"GRINJ-006"	18	395085	Unreliable
+	"Nebraska"	"31"	"2015"	"2015"	"Firearm"	"GRINJ-006"	24	399087	6.0
+	"Nebraska"	"31"	"2016"	"2016"	"Firearm"	"GRINJ-006"	23	400403	5.7
+	"Nebraska"	"31"	"2017"	"2017"	"Firearm"	"GRINJ-006"	24	401005	6.0
+	"Nebraska"	"31"	"2018"	"2018"	"Firearm"	"GRINJ-006"	18	402241	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"Firearm"	"GRINJ-006"	16	402135	Unreliable
+	"Nebraska"	"31"	"2020"	"2020"	"Firearm"	"GRINJ-006"	17	401865	Unreliable
+	"Nevada"	"32"	"1999"	"1999"	"Firearm"	"GRINJ-006"	30	378463	7.9
+	"Nevada"	"32"	"2000"	"2000"	"Firearm"	"GRINJ-006"	30	396368	7.6
+	"Nevada"	"32"	"2001"	"2001"	"Firearm"	"GRINJ-006"	20	420677	4.8
+	"Nevada"	"32"	"2002"	"2002"	"Firearm"	"GRINJ-006"	21	437111	4.8
+	"Nevada"	"32"	"2003"	"2003"	"Firearm"	"GRINJ-006"	37	453818	8.2
+	"Nevada"	"32"	"2004"	"2004"	"Firearm"	"GRINJ-006"	16	474338	Unreliable
+	"Nevada"	"32"	"2005"	"2005"	"Firearm"	"GRINJ-006"	30	492854	6.1
+	"Nevada"	"32"	"2006"	"2006"	"Firearm"	"GRINJ-006"	29	512647	5.7
+	"Nevada"	"32"	"2007"	"2007"	"Firearm"	"GRINJ-006"	22	528730	4.2
+	"Nevada"	"32"	"2008"	"2008"	"Firearm"	"GRINJ-006"	29	537525	5.4
+	"Nevada"	"32"	"2009"	"2009"	"Firearm"	"GRINJ-006"	21	541005	3.9
+	"Nevada"	"32"	"2010"	"2010"	"Firearm"	"GRINJ-006"	24	543282	4.4
+	"Nevada"	"32"	"2011"	"2011"	"Firearm"	"GRINJ-006"	41	544399	7.5
+	"Nevada"	"32"	"2012"	"2012"	"Firearm"	"GRINJ-006"	26	549793	4.7
+	"Nevada"	"32"	"2013"	"2013"	"Firearm"	"GRINJ-006"	26	550185	4.7
+	"Nevada"	"32"	"2014"	"2014"	"Firearm"	"GRINJ-006"	32	552146	5.8
+	"Nevada"	"32"	"2015"	"2015"	"Firearm"	"GRINJ-006"	33	552803	6.0
+	"Nevada"	"32"	"2016"	"2016"	"Firearm"	"GRINJ-006"	35	552116	6.3
+	"Nevada"	"32"	"2017"	"2017"	"Firearm"	"GRINJ-006"	47	556899	8.4
+	"Nevada"	"32"	"2018"	"2018"	"Firearm"	"GRINJ-006"	39	560184	7.0
+	"Nevada"	"32"	"2019"	"2019"	"Firearm"	"GRINJ-006"	35	564234	6.2
+	"Nevada"	"32"	"2020"	"2020"	"Firearm"	"GRINJ-006"	46	570695	8.1
+	"New Hampshire"	"33"	"1999"	"1999"	"Firearm"	"GRINJ-006"	12	244257	Unreliable
+	"New Hampshire"	"33"	"2001"	"2001"	"Firearm"	"GRINJ-006"	17	256957	Unreliable
+	"New Hampshire"	"33"	"2002"	"2002"	"Firearm"	"GRINJ-006"	11	262734	Unreliable
+	"New Hampshire"	"33"	"2003"	"2003"	"Firearm"	"GRINJ-006"	10	266837	Unreliable
+	"New Hampshire"	"33"	"2009"	"2009"	"Firearm"	"GRINJ-006"	15	265477	Unreliable
+	"New Hampshire"	"33"	"2010"	"2010"	"Firearm"	"GRINJ-006"	13	262786	Unreliable
+	"New Hampshire"	"33"	"2011"	"2011"	"Firearm"	"GRINJ-006"	11	261144	Unreliable
+	"New Hampshire"	"33"	"2014"	"2014"	"Firearm"	"GRINJ-006"	22	258950	8.5
+	"New Hampshire"	"33"	"2016"	"2016"	"Firearm"	"GRINJ-006"	16	253978	Unreliable
+	"New Hampshire"	"33"	"2017"	"2017"	"Firearm"	"GRINJ-006"	20	252425	7.9
+	"New Hampshire"	"33"	"2018"	"2018"	"Firearm"	"GRINJ-006"	17	250927	Unreliable
+	"New Hampshire"	"33"	"2019"	"2019"	"Firearm"	"GRINJ-006"	15	246585	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"Firearm"	"GRINJ-006"	16	243737	Unreliable
+	"New Jersey"	"34"	"1999"	"1999"	"Firearm"	"GRINJ-006"	20	1574266	1.3
+	"New Jersey"	"34"	"2000"	"2000"	"Firearm"	"GRINJ-006"	16	1595872	Unreliable
+	"New Jersey"	"34"	"2001"	"2001"	"Firearm"	"GRINJ-006"	15	1634984	Unreliable
+	"New Jersey"	"34"	"2002"	"2002"	"Firearm"	"GRINJ-006"	12	1662060	Unreliable
+	"New Jersey"	"34"	"2003"	"2003"	"Firearm"	"GRINJ-006"	17	1685447	Unreliable
+	"New Jersey"	"34"	"2004"	"2004"	"Firearm"	"GRINJ-006"	16	1701272	Unreliable
+	"New Jersey"	"34"	"2005"	"2005"	"Firearm"	"GRINJ-006"	14	1710922	Unreliable
+	"New Jersey"	"34"	"2006"	"2006"	"Firearm"	"GRINJ-006"	15	1718221	Unreliable
+	"New Jersey"	"34"	"2007"	"2007"	"Firearm"	"GRINJ-006"	11	1719897	Unreliable
+	"New Jersey"	"34"	"2008"	"2008"	"Firearm"	"GRINJ-006"	12	1720572	Unreliable
+	"New Jersey"	"34"	"2009"	"2009"	"Firearm"	"GRINJ-006"	11	1723399	Unreliable
+	"New Jersey"	"34"	"2010"	"2010"	"Firearm"	"GRINJ-006"	11	1726672	Unreliable
+	"New Jersey"	"34"	"2011"	"2011"	"Firearm"	"GRINJ-006"	21	1720432	1.2
+	"New Jersey"	"34"	"2012"	"2012"	"Firearm"	"GRINJ-006"	16	1723220	Unreliable
+	"New Jersey"	"34"	"2013"	"2013"	"Firearm"	"GRINJ-006"	21	1723211	1.2
+	"New Jersey"	"34"	"2014"	"2014"	"Firearm"	"GRINJ-006"	15	1725879	Unreliable
+	"New Jersey"	"34"	"2015"	"2015"	"Firearm"	"GRINJ-006"	14	1715442	Unreliable
+	"New Jersey"	"34"	"2016"	"2016"	"Firearm"	"GRINJ-006"	10	1705097	Unreliable
+	"New Jersey"	"34"	"2017"	"2017"	"Firearm"	"GRINJ-006"	17	1702837	Unreliable
+	"New Jersey"	"34"	"2018"	"2018"	"Firearm"	"GRINJ-006"	19	1667459	Unreliable
+	"New Jersey"	"34"	"2019"	"2019"	"Firearm"	"GRINJ-006"	14	1645264	Unreliable
+	"New Jersey"	"34"	"2020"	"2020"	"Firearm"	"GRINJ-006"	14	1633094	Unreliable
+	"New Mexico"	"35"	"1999"	"1999"	"Firearm"	"GRINJ-006"	39	413253	9.4
+	"New Mexico"	"35"	"2000"	"2000"	"Firearm"	"GRINJ-006"	36	414351	8.7
+	"New Mexico"	"35"	"2001"	"2001"	"Firearm"	"GRINJ-006"	23	421840	5.5
+	"New Mexico"	"35"	"2002"	"2002"	"Firearm"	"GRINJ-006"	32	429026	7.5
+	"New Mexico"	"35"	"2003"	"2003"	"Firearm"	"GRINJ-006"	36	434504	8.3
+	"New Mexico"	"35"	"2004"	"2004"	"Firearm"	"GRINJ-006"	43	438469	9.8
+	"New Mexico"	"35"	"2005"	"2005"	"Firearm"	"GRINJ-006"	30	438338	6.8
+	"New Mexico"	"35"	"2006"	"2006"	"Firearm"	"GRINJ-006"	36	436740	8.2
+	"New Mexico"	"35"	"2007"	"2007"	"Firearm"	"GRINJ-006"	33	434794	7.6
+	"New Mexico"	"35"	"2008"	"2008"	"Firearm"	"GRINJ-006"	33	432409	7.6
+	"New Mexico"	"35"	"2009"	"2009"	"Firearm"	"GRINJ-006"	29	432091	6.7
+	"New Mexico"	"35"	"2010"	"2010"	"Firearm"	"GRINJ-006"	23	433922	5.3
+	"New Mexico"	"35"	"2011"	"2011"	"Firearm"	"GRINJ-006"	29	435443	6.7
+	"New Mexico"	"35"	"2012"	"2012"	"Firearm"	"GRINJ-006"	29	433895	6.7
+	"New Mexico"	"35"	"2013"	"2013"	"Firearm"	"GRINJ-006"	28	434731	6.4
+	"New Mexico"	"35"	"2014"	"2014"	"Firearm"	"GRINJ-006"	31	430894	7.2
+	"New Mexico"	"35"	"2015"	"2015"	"Firearm"	"GRINJ-006"	39	426794	9.1
+	"New Mexico"	"35"	"2016"	"2016"	"Firearm"	"GRINJ-006"	31	423291	7.3
+	"New Mexico"	"35"	"2017"	"2017"	"Firearm"	"GRINJ-006"	46	422435	10.9
+	"New Mexico"	"35"	"2018"	"2018"	"Firearm"	"GRINJ-006"	47	420540	11.2
+	"New Mexico"	"35"	"2019"	"2019"	"Firearm"	"GRINJ-006"	48	417948	11.5
+	"New Mexico"	"35"	"2020"	"2020"	"Firearm"	"GRINJ-006"	53	418568	12.7
+	"New York"	"36"	"1999"	"1999"	"Firearm"	"GRINJ-006"	64	3808590	1.7
+	"New York"	"36"	"2000"	"2000"	"Firearm"	"GRINJ-006"	71	3864286	1.8
+	"New York"	"36"	"2001"	"2001"	"Firearm"	"GRINJ-006"	70	3937921	1.8
+	"New York"	"36"	"2002"	"2002"	"Firearm"	"GRINJ-006"	55	3976671	1.4
+	"New York"	"36"	"2003"	"2003"	"Firearm"	"GRINJ-006"	64	4006141	1.6
+	"New York"	"36"	"2004"	"2004"	"Firearm"	"GRINJ-006"	53	4012074	1.3
+	"New York"	"36"	"2005"	"2005"	"Firearm"	"GRINJ-006"	53	4008708	1.3
+	"New York"	"36"	"2006"	"2006"	"Firearm"	"GRINJ-006"	42	4001229	1.0
+	"New York"	"36"	"2007"	"2007"	"Firearm"	"GRINJ-006"	41	3997773	1.0
+	"New York"	"36"	"2008"	"2008"	"Firearm"	"GRINJ-006"	41	3994791	1.0
+	"New York"	"36"	"2009"	"2009"	"Firearm"	"GRINJ-006"	47	3991970	1.2
+	"New York"	"36"	"2010"	"2010"	"Firearm"	"GRINJ-006"	40	3988669	1.0
+	"New York"	"36"	"2011"	"2011"	"Firearm"	"GRINJ-006"	61	3953226	1.5
+	"New York"	"36"	"2012"	"2012"	"Firearm"	"GRINJ-006"	55	3939149	1.4
+	"New York"	"36"	"2013"	"2013"	"Firearm"	"GRINJ-006"	47	3899458	1.2
+	"New York"	"36"	"2014"	"2014"	"Firearm"	"GRINJ-006"	47	3879534	1.2
+	"New York"	"36"	"2015"	"2015"	"Firearm"	"GRINJ-006"	40	3830617	1.0
+	"New York"	"36"	"2016"	"2016"	"Firearm"	"GRINJ-006"	51	3780911	1.3
+	"New York"	"36"	"2017"	"2017"	"Firearm"	"GRINJ-006"	44	3727582	1.2
+	"New York"	"36"	"2018"	"2018"	"Firearm"	"GRINJ-006"	57	3608500	1.6
+	"New York"	"36"	"2019"	"2019"	"Firearm"	"GRINJ-006"	45	3545951	1.3
+	"New York"	"36"	"2020"	"2020"	"Firearm"	"GRINJ-006"	40	3487501	1.1
+	"North Carolina"	"37"	"1999"	"1999"	"Firearm"	"GRINJ-006"	95	1635716	5.8
+	"North Carolina"	"37"	"2000"	"2000"	"Firearm"	"GRINJ-006"	82	1668806	4.9
+	"North Carolina"	"37"	"2001"	"2001"	"Firearm"	"GRINJ-006"	90	1717218	5.2
+	"North Carolina"	"37"	"2002"	"2002"	"Firearm"	"GRINJ-006"	57	1746632	3.3
+	"North Carolina"	"37"	"2003"	"2003"	"Firearm"	"GRINJ-006"	89	1755749	5.1
+	"North Carolina"	"37"	"2004"	"2004"	"Firearm"	"GRINJ-006"	73	1788201	4.1
+	"North Carolina"	"37"	"2005"	"2005"	"Firearm"	"GRINJ-006"	72	1816270	4.0
+	"North Carolina"	"37"	"2006"	"2006"	"Firearm"	"GRINJ-006"	91	1855884	4.9
+	"North Carolina"	"37"	"2007"	"2007"	"Firearm"	"GRINJ-006"	64	1879026	3.4
+	"North Carolina"	"37"	"2008"	"2008"	"Firearm"	"GRINJ-006"	80	1912503	4.2
+	"North Carolina"	"37"	"2009"	"2009"	"Firearm"	"GRINJ-006"	76	1938760	3.9
+	"North Carolina"	"37"	"2010"	"2010"	"Firearm"	"GRINJ-006"	83	1952268	4.3
+	"North Carolina"	"37"	"2011"	"2011"	"Firearm"	"GRINJ-006"	83	1974574	4.2
+	"North Carolina"	"37"	"2012"	"2012"	"Firearm"	"GRINJ-006"	78	1996400	3.9
+	"North Carolina"	"37"	"2013"	"2013"	"Firearm"	"GRINJ-006"	76	2013302	3.8
+	"North Carolina"	"37"	"2014"	"2014"	"Firearm"	"GRINJ-006"	89	2023066	4.4
+	"North Carolina"	"37"	"2015"	"2015"	"Firearm"	"GRINJ-006"	85	2030863	4.2
+	"North Carolina"	"37"	"2016"	"2016"	"Firearm"	"GRINJ-006"	102	2018475	5.1
+	"North Carolina"	"37"	"2017"	"2017"	"Firearm"	"GRINJ-006"	91	2032099	4.5
+	"North Carolina"	"37"	"2018"	"2018"	"Firearm"	"GRINJ-006"	113	2046257	5.5
+	"North Carolina"	"37"	"2019"	"2019"	"Firearm"	"GRINJ-006"	95	2052666	4.6
+	"North Carolina"	"37"	"2020"	"2020"	"Firearm"	"GRINJ-006"	135	2062945	6.5
+	"North Dakota"	"38"	"1999"	"1999"	"Firearm"	"GRINJ-006"	10	152095	Unreliable
+	"North Dakota"	"38"	"2000"	"2000"	"Firearm"	"GRINJ-006"	11	151585	Unreliable
+	"North Dakota"	"38"	"2004"	"2004"	"Firearm"	"GRINJ-006"	13	156669	Unreliable
+	"North Dakota"	"38"	"2005"	"2005"	"Firearm"	"GRINJ-006"	15	155755	Unreliable
+	"North Dakota"	"38"	"2006"	"2006"	"Firearm"	"GRINJ-006"	14	155266	Unreliable
+	"North Dakota"	"38"	"2007"	"2007"	"Firearm"	"GRINJ-006"	10	150894	Unreliable
+	"North Dakota"	"38"	"2009"	"2009"	"Firearm"	"GRINJ-006"	12	146807	Unreliable
+	"North Dakota"	"38"	"2010"	"2010"	"Firearm"	"GRINJ-006"	12	146220	Unreliable
+	"North Dakota"	"38"	"2012"	"2012"	"Firearm"	"GRINJ-006"	10	152478	Unreliable
+	"North Dakota"	"38"	"2013"	"2013"	"Firearm"	"GRINJ-006"	21	160079	13.1
+	"North Dakota"	"38"	"2014"	"2014"	"Firearm"	"GRINJ-006"	21	163070	12.9
+	"North Dakota"	"38"	"2016"	"2016"	"Firearm"	"GRINJ-006"	12	162388	Unreliable
+	"North Dakota"	"38"	"2017"	"2017"	"Firearm"	"GRINJ-006"	18	158744	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	"Firearm"	"GRINJ-006"	11	158509	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	"Firearm"	"GRINJ-006"	12	157861	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Firearm"	"GRINJ-006"	15	159673	Unreliable
+	"Ohio"	"39"	"1999"	"1999"	"Firearm"	"GRINJ-006"	85	2368395	3.6
+	"Ohio"	"39"	"2000"	"2000"	"Firearm"	"GRINJ-006"	72	2373607	3.0
+	"Ohio"	"39"	"2001"	"2001"	"Firearm"	"GRINJ-006"	77	2409234	3.2
+	"Ohio"	"39"	"2002"	"2002"	"Firearm"	"GRINJ-006"	76	2427873	3.1
+	"Ohio"	"39"	"2003"	"2003"	"Firearm"	"GRINJ-006"	66	2438295	2.7
+	"Ohio"	"39"	"2004"	"2004"	"Firearm"	"GRINJ-006"	81	2432566	3.3
+	"Ohio"	"39"	"2005"	"2005"	"Firearm"	"GRINJ-006"	71	2417660	2.9
+	"Ohio"	"39"	"2006"	"2006"	"Firearm"	"GRINJ-006"	76	2405032	3.2
+	"Ohio"	"39"	"2007"	"2007"	"Firearm"	"GRINJ-006"	86	2388625	3.6
+	"Ohio"	"39"	"2008"	"2008"	"Firearm"	"GRINJ-006"	80	2378962	3.4
+	"Ohio"	"39"	"2009"	"2009"	"Firearm"	"GRINJ-006"	72	2371094	3.0
+	"Ohio"	"39"	"2010"	"2010"	"Firearm"	"GRINJ-006"	83	2361497	3.5
+	"Ohio"	"39"	"2011"	"2011"	"Firearm"	"GRINJ-006"	88	2349068	3.7
+	"Ohio"	"39"	"2012"	"2012"	"Firearm"	"GRINJ-006"	79	2341806	3.4
+	"Ohio"	"39"	"2013"	"2013"	"Firearm"	"GRINJ-006"	68	2333894	2.9
+	"Ohio"	"39"	"2014"	"2014"	"Firearm"	"GRINJ-006"	87	2319304	3.8
+	"Ohio"	"39"	"2015"	"2015"	"Firearm"	"GRINJ-006"	111	2298750	4.8
+	"Ohio"	"39"	"2016"	"2016"	"Firearm"	"GRINJ-006"	118	2277279	5.2
+	"Ohio"	"39"	"2017"	"2017"	"Firearm"	"GRINJ-006"	131	2270812	5.8
+	"Ohio"	"39"	"2018"	"2018"	"Firearm"	"GRINJ-006"	139	2258586	6.2
+	"Ohio"	"39"	"2019"	"2019"	"Firearm"	"GRINJ-006"	133	2239035	5.9
+	"Ohio"	"39"	"2020"	"2020"	"Firearm"	"GRINJ-006"	128	2221076	5.8
+	"Oklahoma"	"40"	"1999"	"1999"	"Firearm"	"GRINJ-006"	51	767811	6.6
+	"Oklahoma"	"40"	"2000"	"2000"	"Firearm"	"GRINJ-006"	44	768567	5.7
+	"Oklahoma"	"40"	"2001"	"2001"	"Firearm"	"GRINJ-006"	48	779418	6.2
+	"Oklahoma"	"40"	"2002"	"2002"	"Firearm"	"GRINJ-006"	53	787029	6.7
+	"Oklahoma"	"40"	"2003"	"2003"	"Firearm"	"GRINJ-006"	41	789520	5.2
+	"Oklahoma"	"40"	"2004"	"2004"	"Firearm"	"GRINJ-006"	43	790624	5.4
+	"Oklahoma"	"40"	"2005"	"2005"	"Firearm"	"GRINJ-006"	40	786493	5.1
+	"Oklahoma"	"40"	"2006"	"2006"	"Firearm"	"GRINJ-006"	35	785286	4.5
+	"Oklahoma"	"40"	"2007"	"2007"	"Firearm"	"GRINJ-006"	36	783286	4.6
+	"Oklahoma"	"40"	"2008"	"2008"	"Firearm"	"GRINJ-006"	43	781594	5.5
+	"Oklahoma"	"40"	"2009"	"2009"	"Firearm"	"GRINJ-006"	38	784962	4.8
+	"Oklahoma"	"40"	"2010"	"2010"	"Firearm"	"GRINJ-006"	45	787390	5.7
+	"Oklahoma"	"40"	"2011"	"2011"	"Firearm"	"GRINJ-006"	52	796404	6.5
+	"Oklahoma"	"40"	"2012"	"2012"	"Firearm"	"GRINJ-006"	63	801950	7.9
+	"Oklahoma"	"40"	"2013"	"2013"	"Firearm"	"GRINJ-006"	55	806640	6.8
+	"Oklahoma"	"40"	"2014"	"2014"	"Firearm"	"GRINJ-006"	54	809879	6.7
+	"Oklahoma"	"40"	"2015"	"2015"	"Firearm"	"GRINJ-006"	54	812187	6.6
+	"Oklahoma"	"40"	"2016"	"2016"	"Firearm"	"GRINJ-006"	82	807234	10.2
+	"Oklahoma"	"40"	"2017"	"2017"	"Firearm"	"GRINJ-006"	81	806519	10.0
+	"Oklahoma"	"40"	"2018"	"2018"	"Firearm"	"GRINJ-006"	63	807940	7.8
+	"Oklahoma"	"40"	"2019"	"2019"	"Firearm"	"GRINJ-006"	72	809703	8.9
+	"Oklahoma"	"40"	"2020"	"2020"	"Firearm"	"GRINJ-006"	97	812804	11.9
+	"Oregon"	"41"	"1999"	"1999"	"Firearm"	"GRINJ-006"	41	710363	5.8
+	"Oregon"	"41"	"2000"	"2000"	"Firearm"	"GRINJ-006"	47	716931	6.6
+	"Oregon"	"41"	"2001"	"2001"	"Firearm"	"GRINJ-006"	30	731195	4.1
+	"Oregon"	"41"	"2002"	"2002"	"Firearm"	"GRINJ-006"	40	741764	5.4
+	"Oregon"	"41"	"2003"	"2003"	"Firearm"	"GRINJ-006"	29	746644	3.9
+	"Oregon"	"41"	"2004"	"2004"	"Firearm"	"GRINJ-006"	37	744564	5.0
+	"Oregon"	"41"	"2005"	"2005"	"Firearm"	"GRINJ-006"	42	745605	5.6
+	"Oregon"	"41"	"2006"	"2006"	"Firearm"	"GRINJ-006"	36	748394	4.8
+	"Oregon"	"41"	"2007"	"2007"	"Firearm"	"GRINJ-006"	31	750421	4.1
+	"Oregon"	"41"	"2008"	"2008"	"Firearm"	"GRINJ-006"	32	751973	4.3
+	"Oregon"	"41"	"2009"	"2009"	"Firearm"	"GRINJ-006"	29	752197	3.9
+	"Oregon"	"41"	"2010"	"2010"	"Firearm"	"GRINJ-006"	25	750461	3.3
+	"Oregon"	"41"	"2011"	"2011"	"Firearm"	"GRINJ-006"	40	754614	5.3
+	"Oregon"	"41"	"2012"	"2012"	"Firearm"	"GRINJ-006"	34	754071	4.5
+	"Oregon"	"41"	"2013"	"2013"	"Firearm"	"GRINJ-006"	49	754955	6.5
+	"Oregon"	"41"	"2014"	"2014"	"Firearm"	"GRINJ-006"	49	752554	6.5
+	"Oregon"	"41"	"2015"	"2015"	"Firearm"	"GRINJ-006"	42	752943	5.6
+	"Oregon"	"41"	"2016"	"2016"	"Firearm"	"GRINJ-006"	41	755634	5.4
+	"Oregon"	"41"	"2017"	"2017"	"Firearm"	"GRINJ-006"	50	757468	6.6
+	"Oregon"	"41"	"2018"	"2018"	"Firearm"	"GRINJ-006"	66	761822	8.7
+	"Oregon"	"41"	"2019"	"2019"	"Firearm"	"GRINJ-006"	59	759321	7.8
+	"Oregon"	"41"	"2020"	"2020"	"Firearm"	"GRINJ-006"	47	758054	6.2
+	"Pennsylvania"	"42"	"1999"	"1999"	"Firearm"	"GRINJ-006"	95	2445343	3.9
+	"Pennsylvania"	"42"	"2000"	"2000"	"Firearm"	"GRINJ-006"	94	2460921	3.8
+	"Pennsylvania"	"42"	"2001"	"2001"	"Firearm"	"GRINJ-006"	72	2503033	2.9
+	"Pennsylvania"	"42"	"2002"	"2002"	"Firearm"	"GRINJ-006"	91	2532706	3.6
+	"Pennsylvania"	"42"	"2003"	"2003"	"Firearm"	"GRINJ-006"	92	2557167	3.6
+	"Pennsylvania"	"42"	"2004"	"2004"	"Firearm"	"GRINJ-006"	91	2569292	3.5
+	"Pennsylvania"	"42"	"2005"	"2005"	"Firearm"	"GRINJ-006"	71	2575180	2.8
+	"Pennsylvania"	"42"	"2006"	"2006"	"Firearm"	"GRINJ-006"	94	2583660	3.6
+	"Pennsylvania"	"42"	"2007"	"2007"	"Firearm"	"GRINJ-006"	76	2581256	2.9
+	"Pennsylvania"	"42"	"2008"	"2008"	"Firearm"	"GRINJ-006"	70	2573858	2.7
+	"Pennsylvania"	"42"	"2009"	"2009"	"Firearm"	"GRINJ-006"	74	2574331	2.9
+	"Pennsylvania"	"42"	"2010"	"2010"	"Firearm"	"GRINJ-006"	97	2570363	3.8
+	"Pennsylvania"	"42"	"2011"	"2011"	"Firearm"	"GRINJ-006"	96	2555406	3.8
+	"Pennsylvania"	"42"	"2012"	"2012"	"Firearm"	"GRINJ-006"	95	2534467	3.7
+	"Pennsylvania"	"42"	"2013"	"2013"	"Firearm"	"GRINJ-006"	99	2497860	4.0
+	"Pennsylvania"	"42"	"2014"	"2014"	"Firearm"	"GRINJ-006"	84	2472535	3.4
+	"Pennsylvania"	"42"	"2015"	"2015"	"Firearm"	"GRINJ-006"	93	2443728	3.8
+	"Pennsylvania"	"42"	"2016"	"2016"	"Firearm"	"GRINJ-006"	124	2419015	5.1
+	"Pennsylvania"	"42"	"2017"	"2017"	"Firearm"	"GRINJ-006"	128	2403092	5.3
+	"Pennsylvania"	"42"	"2018"	"2018"	"Firearm"	"GRINJ-006"	121	2380582	5.1
+	"Pennsylvania"	"42"	"2019"	"2019"	"Firearm"	"GRINJ-006"	91	2352795	3.9
+	"Pennsylvania"	"42"	"2020"	"2020"	"Firearm"	"GRINJ-006"	103	2328476	4.4
+	"South Carolina"	"45"	"1999"	"1999"	"Firearm"	"GRINJ-006"	39	859275	4.5
+	"South Carolina"	"45"	"2000"	"2000"	"Firearm"	"GRINJ-006"	36	867570	4.1
+	"South Carolina"	"45"	"2001"	"2001"	"Firearm"	"GRINJ-006"	38	888050	4.3
+	"South Carolina"	"45"	"2002"	"2002"	"Firearm"	"GRINJ-006"	38	898255	4.2
+	"South Carolina"	"45"	"2003"	"2003"	"Firearm"	"GRINJ-006"	28	905372	3.1
+	"South Carolina"	"45"	"2004"	"2004"	"Firearm"	"GRINJ-006"	40	916517	4.4
+	"South Carolina"	"45"	"2005"	"2005"	"Firearm"	"GRINJ-006"	42	920525	4.6
+	"South Carolina"	"45"	"2006"	"2006"	"Firearm"	"GRINJ-006"	31	927440	3.3
+	"South Carolina"	"45"	"2007"	"2007"	"Firearm"	"GRINJ-006"	33	937727	3.5
+	"South Carolina"	"45"	"2008"	"2008"	"Firearm"	"GRINJ-006"	50	946550	5.3
+	"South Carolina"	"45"	"2009"	"2009"	"Firearm"	"GRINJ-006"	46	955073	4.8
+	"South Carolina"	"45"	"2010"	"2010"	"Firearm"	"GRINJ-006"	45	958769	4.7
+	"South Carolina"	"45"	"2011"	"2011"	"Firearm"	"GRINJ-006"	49	962110	5.1
+	"South Carolina"	"45"	"2012"	"2012"	"Firearm"	"GRINJ-006"	44	965985	4.6
+	"South Carolina"	"45"	"2013"	"2013"	"Firearm"	"GRINJ-006"	54	970030	5.6
+	"South Carolina"	"45"	"2014"	"2014"	"Firearm"	"GRINJ-006"	60	967994	6.2
+	"South Carolina"	"45"	"2015"	"2015"	"Firearm"	"GRINJ-006"	65	968364	6.7
+	"South Carolina"	"45"	"2016"	"2016"	"Firearm"	"GRINJ-006"	64	963339	6.6
+	"South Carolina"	"45"	"2017"	"2017"	"Firearm"	"GRINJ-006"	58	970872	6.0
+	"South Carolina"	"45"	"2018"	"2018"	"Firearm"	"GRINJ-006"	72	975522	7.4
+	"South Carolina"	"45"	"2019"	"2019"	"Firearm"	"GRINJ-006"	72	979342	7.4
+	"South Carolina"	"45"	"2020"	"2020"	"Firearm"	"GRINJ-006"	87	986560	8.8
+	"South Dakota"	"46"	"1999"	"1999"	"Firearm"	"GRINJ-006"	17	174443	Unreliable
+	"South Dakota"	"46"	"2000"	"2000"	"Firearm"	"GRINJ-006"	10	174728	Unreliable
+	"South Dakota"	"46"	"2001"	"2001"	"Firearm"	"GRINJ-006"	11	176008	Unreliable
+	"South Dakota"	"46"	"2003"	"2003"	"Firearm"	"GRINJ-006"	14	177008	Unreliable
+	"South Dakota"	"46"	"2004"	"2004"	"Firearm"	"GRINJ-006"	14	177292	Unreliable
+	"South Dakota"	"46"	"2005"	"2005"	"Firearm"	"GRINJ-006"	16	175678	Unreliable
+	"South Dakota"	"46"	"2006"	"2006"	"Firearm"	"GRINJ-006"	16	174884	Unreliable
+	"South Dakota"	"46"	"2007"	"2007"	"Firearm"	"GRINJ-006"	10	171960	Unreliable
+	"South Dakota"	"46"	"2008"	"2008"	"Firearm"	"GRINJ-006"	15	170692	Unreliable
+	"South Dakota"	"46"	"2009"	"2009"	"Firearm"	"GRINJ-006"	14	169663	Unreliable
+	"South Dakota"	"46"	"2010"	"2010"	"Firearm"	"GRINJ-006"	12	169184	Unreliable
+	"South Dakota"	"46"	"2013"	"2013"	"Firearm"	"GRINJ-006"	14	173167	Unreliable
+	"South Dakota"	"46"	"2014"	"2014"	"Firearm"	"GRINJ-006"	18	175327	Unreliable
+	"South Dakota"	"46"	"2015"	"2015"	"Firearm"	"GRINJ-006"	13	174488	Unreliable
+	"South Dakota"	"46"	"2016"	"2016"	"Firearm"	"GRINJ-006"	14	176046	Unreliable
+	"South Dakota"	"46"	"2017"	"2017"	"Firearm"	"GRINJ-006"	15	175528	Unreliable
+	"South Dakota"	"46"	"2018"	"2018"	"Firearm"	"GRINJ-006"	19	178141	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"Firearm"	"GRINJ-006"	20	177396	11.3
+	"South Dakota"	"46"	"2020"	"2020"	"Firearm"	"GRINJ-006"	13	179671	Unreliable
+	"Tennessee"	"47"	"1999"	"1999"	"Firearm"	"GRINJ-006"	61	1164787	5.2
+	"Tennessee"	"47"	"2000"	"2000"	"Firearm"	"GRINJ-006"	73	1176684	6.2
+	"Tennessee"	"47"	"2001"	"2001"	"Firearm"	"GRINJ-006"	59	1202839	4.9
+	"Tennessee"	"47"	"2002"	"2002"	"Firearm"	"GRINJ-006"	47	1215684	3.9
+	"Tennessee"	"47"	"2003"	"2003"	"Firearm"	"GRINJ-006"	55	1224419	4.5
+	"Tennessee"	"47"	"2004"	"2004"	"Firearm"	"GRINJ-006"	63	1234296	5.1
+	"Tennessee"	"47"	"2005"	"2005"	"Firearm"	"GRINJ-006"	58	1244537	4.7
+	"Tennessee"	"47"	"2006"	"2006"	"Firearm"	"GRINJ-006"	61	1248647	4.9
+	"Tennessee"	"47"	"2007"	"2007"	"Firearm"	"GRINJ-006"	50	1261298	4.0
+	"Tennessee"	"47"	"2008"	"2008"	"Firearm"	"GRINJ-006"	57	1266434	4.5
+	"Tennessee"	"47"	"2009"	"2009"	"Firearm"	"GRINJ-006"	64	1277392	5.0
+	"Tennessee"	"47"	"2010"	"2010"	"Firearm"	"GRINJ-006"	59	1282371	4.6
+	"Tennessee"	"47"	"2011"	"2011"	"Firearm"	"GRINJ-006"	49	1289794	3.8
+	"Tennessee"	"47"	"2012"	"2012"	"Firearm"	"GRINJ-006"	47	1299430	3.6
+	"Tennessee"	"47"	"2013"	"2013"	"Firearm"	"GRINJ-006"	69	1303877	5.3
+	"Tennessee"	"47"	"2014"	"2014"	"Firearm"	"GRINJ-006"	66	1308065	5.0
+	"Tennessee"	"47"	"2015"	"2015"	"Firearm"	"GRINJ-006"	66	1304198	5.1
+	"Tennessee"	"47"	"2016"	"2016"	"Firearm"	"GRINJ-006"	80	1297238	6.2
+	"Tennessee"	"47"	"2017"	"2017"	"Firearm"	"GRINJ-006"	81	1297494	6.2
+	"Tennessee"	"47"	"2018"	"2018"	"Firearm"	"GRINJ-006"	89	1301096	6.8
+	"Tennessee"	"47"	"2019"	"2019"	"Firearm"	"GRINJ-006"	81	1300507	6.2
+	"Tennessee"	"47"	"2020"	"2020"	"Firearm"	"GRINJ-006"	93	1301417	7.1
+	"Texas"	"48"	"1999"	"1999"	"Firearm"	"GRINJ-006"	198	4729821	4.2
+	"Texas"	"48"	"2000"	"2000"	"Firearm"	"GRINJ-006"	227	4806828	4.7
+	"Texas"	"48"	"2001"	"2001"	"Firearm"	"GRINJ-006"	205	4947951	4.1
+	"Texas"	"48"	"2002"	"2002"	"Firearm"	"GRINJ-006"	165	5050667	3.3
+	"Texas"	"48"	"2003"	"2003"	"Firearm"	"GRINJ-006"	178	5130615	3.5
+	"Texas"	"48"	"2004"	"2004"	"Firearm"	"GRINJ-006"	183	5195947	3.5
+	"Texas"	"48"	"2005"	"2005"	"Firearm"	"GRINJ-006"	199	5240177	3.8
+	"Texas"	"48"	"2006"	"2006"	"Firearm"	"GRINJ-006"	174	5329588	3.3
+	"Texas"	"48"	"2007"	"2007"	"Firearm"	"GRINJ-006"	193	5381919	3.6
+	"Texas"	"48"	"2008"	"2008"	"Firearm"	"GRINJ-006"	182	5445999	3.3
+	"Texas"	"48"	"2009"	"2009"	"Firearm"	"GRINJ-006"	199	5523619	3.6
+	"Texas"	"48"	"2010"	"2010"	"Firearm"	"GRINJ-006"	209	5582086	3.7
+	"Texas"	"48"	"2011"	"2011"	"Firearm"	"GRINJ-006"	211	5676328	3.7
+	"Texas"	"48"	"2012"	"2012"	"Firearm"	"GRINJ-006"	228	5751934	4.0
+	"Texas"	"48"	"2013"	"2013"	"Firearm"	"GRINJ-006"	220	5818455	3.8
+	"Texas"	"48"	"2014"	"2014"	"Firearm"	"GRINJ-006"	222	5896237	3.8
+	"Texas"	"48"	"2015"	"2015"	"Firearm"	"GRINJ-006"	250	5971304	4.2
+	"Texas"	"48"	"2016"	"2016"	"Firearm"	"GRINJ-006"	288	6004819	4.8
+	"Texas"	"48"	"2017"	"2017"	"Firearm"	"GRINJ-006"	334	6061495	5.5
+	"Texas"	"48"	"2018"	"2018"	"Firearm"	"GRINJ-006"	317	6122305	5.2
+	"Texas"	"48"	"2019"	"2019"	"Firearm"	"GRINJ-006"	352	6158641	5.7
+	"Texas"	"48"	"2020"	"2020"	"Firearm"	"GRINJ-006"	394	6218107	6.3
+	"Utah"	"49"	"1999"	"1999"	"Firearm"	"GRINJ-006"	33	628595	5.2
+	"Utah"	"49"	"2000"	"2000"	"Firearm"	"GRINJ-006"	30	633718	4.7
+	"Utah"	"49"	"2001"	"2001"	"Firearm"	"GRINJ-006"	41	646839	6.3
+	"Utah"	"49"	"2002"	"2002"	"Firearm"	"GRINJ-006"	34	651890	5.2
+	"Utah"	"49"	"2003"	"2003"	"Firearm"	"GRINJ-006"	43	650641	6.6
+	"Utah"	"49"	"2004"	"2004"	"Firearm"	"GRINJ-006"	32	646583	4.9
+	"Utah"	"49"	"2005"	"2005"	"Firearm"	"GRINJ-006"	32	649130	4.9
+	"Utah"	"49"	"2006"	"2006"	"Firearm"	"GRINJ-006"	33	650891	5.1
+	"Utah"	"49"	"2007"	"2007"	"Firearm"	"GRINJ-006"	26	656173	4.0
+	"Utah"	"49"	"2008"	"2008"	"Firearm"	"GRINJ-006"	39	662249	5.9
+	"Utah"	"49"	"2009"	"2009"	"Firearm"	"GRINJ-006"	29	670495	4.3
+	"Utah"	"49"	"2010"	"2010"	"Firearm"	"GRINJ-006"	35	675560	5.2
+	"Utah"	"49"	"2011"	"2011"	"Firearm"	"GRINJ-006"	35	692020	5.1
+	"Utah"	"49"	"2012"	"2012"	"Firearm"	"GRINJ-006"	45	699160	6.4
+	"Utah"	"49"	"2013"	"2013"	"Firearm"	"GRINJ-006"	38	714036	5.3
+	"Utah"	"49"	"2014"	"2014"	"Firearm"	"GRINJ-006"	50	723176	6.9
+	"Utah"	"49"	"2015"	"2015"	"Firearm"	"GRINJ-006"	69	738502	9.3
+	"Utah"	"49"	"2016"	"2016"	"Firearm"	"GRINJ-006"	56	748472	7.5
+	"Utah"	"49"	"2017"	"2017"	"Firearm"	"GRINJ-006"	63	757980	8.3
+	"Utah"	"49"	"2018"	"2018"	"Firearm"	"GRINJ-006"	64	776690	8.2
+	"Utah"	"49"	"2019"	"2019"	"Firearm"	"GRINJ-006"	65	786484	8.3
+	"Utah"	"49"	"2020"	"2020"	"Firearm"	"GRINJ-006"	64	796644	8.0
+	"Vermont"	"50"	"2020"	"2020"	"Firearm"	"GRINJ-006"	12	118275	Unreliable
+	"Virginia"	"51"	"1999"	"1999"	"Firearm"	"GRINJ-006"	67	1434726	4.7
+	"Virginia"	"51"	"2000"	"2000"	"Firearm"	"GRINJ-006"	49	1460594	3.4
+	"Virginia"	"51"	"2001"	"2001"	"Firearm"	"GRINJ-006"	61	1507008	4.0
+	"Virginia"	"51"	"2002"	"2002"	"Firearm"	"GRINJ-006"	52	1534328	3.4
+	"Virginia"	"51"	"2003"	"2003"	"Firearm"	"GRINJ-006"	57	1559174	3.7
+	"Virginia"	"51"	"2004"	"2004"	"Firearm"	"GRINJ-006"	58	1586638	3.7
+	"Virginia"	"51"	"2005"	"2005"	"Firearm"	"GRINJ-006"	52	1607519	3.2
+	"Virginia"	"51"	"2006"	"2006"	"Firearm"	"GRINJ-006"	62	1622763	3.8
+	"Virginia"	"51"	"2007"	"2007"	"Firearm"	"GRINJ-006"	52	1626525	3.2
+	"Virginia"	"51"	"2008"	"2008"	"Firearm"	"GRINJ-006"	70	1626331	4.3
+	"Virginia"	"51"	"2009"	"2009"	"Firearm"	"GRINJ-006"	52	1631548	3.2
+	"Virginia"	"51"	"2010"	"2010"	"Firearm"	"GRINJ-006"	43	1634302	2.6
+	"Virginia"	"51"	"2011"	"2011"	"Firearm"	"GRINJ-006"	75	1643362	4.6
+	"Virginia"	"51"	"2012"	"2012"	"Firearm"	"GRINJ-006"	70	1651414	4.2
+	"Virginia"	"51"	"2013"	"2013"	"Firearm"	"GRINJ-006"	67	1658734	4.0
+	"Virginia"	"51"	"2014"	"2014"	"Firearm"	"GRINJ-006"	78	1663843	4.7
+	"Virginia"	"51"	"2015"	"2015"	"Firearm"	"GRINJ-006"	76	1659865	4.6
+	"Virginia"	"51"	"2016"	"2016"	"Firearm"	"GRINJ-006"	87	1652773	5.3
+	"Virginia"	"51"	"2017"	"2017"	"Firearm"	"GRINJ-006"	98	1647214	5.9
+	"Virginia"	"51"	"2018"	"2018"	"Firearm"	"GRINJ-006"	110	1649458	6.7
+	"Virginia"	"51"	"2019"	"2019"	"Firearm"	"GRINJ-006"	89	1638682	5.4
+	"Virginia"	"51"	"2020"	"2020"	"Firearm"	"GRINJ-006"	123	1644202	7.5
+	"Washington"	"53"	"1999"	"1999"	"Firearm"	"GRINJ-006"	72	1235789	5.8
+	"Washington"	"53"	"2000"	"2000"	"Firearm"	"GRINJ-006"	53	1252989	4.2
+	"Washington"	"53"	"2001"	"2001"	"Firearm"	"GRINJ-006"	52	1290448	4.0
+	"Washington"	"53"	"2002"	"2002"	"Firearm"	"GRINJ-006"	52	1312866	4.0
+	"Washington"	"53"	"2003"	"2003"	"Firearm"	"GRINJ-006"	62	1325860	4.7
+	"Washington"	"53"	"2004"	"2004"	"Firearm"	"GRINJ-006"	55	1332145	4.1
+	"Washington"	"53"	"2005"	"2005"	"Firearm"	"GRINJ-006"	50	1337393	3.7
+	"Washington"	"53"	"2006"	"2006"	"Firearm"	"GRINJ-006"	56	1345318	4.2
+	"Washington"	"53"	"2007"	"2007"	"Firearm"	"GRINJ-006"	51	1344837	3.8
+	"Washington"	"53"	"2008"	"2008"	"Firearm"	"GRINJ-006"	52	1355511	3.8
+	"Washington"	"53"	"2009"	"2009"	"Firearm"	"GRINJ-006"	49	1364157	3.6
+	"Washington"	"53"	"2010"	"2010"	"Firearm"	"GRINJ-006"	47	1361873	3.5
+	"Washington"	"53"	"2011"	"2011"	"Firearm"	"GRINJ-006"	53	1372272	3.9
+	"Washington"	"53"	"2012"	"2012"	"Firearm"	"GRINJ-006"	62	1371353	4.5
+	"Washington"	"53"	"2013"	"2013"	"Firearm"	"GRINJ-006"	55	1371124	4.0
+	"Washington"	"53"	"2014"	"2014"	"Firearm"	"GRINJ-006"	75	1375061	5.5
+	"Washington"	"53"	"2015"	"2015"	"Firearm"	"GRINJ-006"	64	1375263	4.7
+	"Washington"	"53"	"2016"	"2016"	"Firearm"	"GRINJ-006"	73	1375580	5.3
+	"Washington"	"53"	"2017"	"2017"	"Firearm"	"GRINJ-006"	83	1377190	6.0
+	"Washington"	"53"	"2018"	"2018"	"Firearm"	"GRINJ-006"	95	1391114	6.8
+	"Washington"	"53"	"2019"	"2019"	"Firearm"	"GRINJ-006"	70	1396316	5.0
+	"Washington"	"53"	"2020"	"2020"	"Firearm"	"GRINJ-006"	99	1401989	7.1
+	"West Virginia"	"54"	"1999"	"1999"	"Firearm"	"GRINJ-006"	22	367995	6.0
+	"West Virginia"	"54"	"2000"	"2000"	"Firearm"	"GRINJ-006"	24	361869	6.6
+	"West Virginia"	"54"	"2001"	"2001"	"Firearm"	"GRINJ-006"	11	361437	Unreliable
+	"West Virginia"	"54"	"2002"	"2002"	"Firearm"	"GRINJ-006"	31	361427	8.6
+	"West Virginia"	"54"	"2003"	"2003"	"Firearm"	"GRINJ-006"	25	360850	6.9
+	"West Virginia"	"54"	"2004"	"2004"	"Firearm"	"GRINJ-006"	26	358406	7.3
+	"West Virginia"	"54"	"2005"	"2005"	"Firearm"	"GRINJ-006"	20	354328	5.6
+	"West Virginia"	"54"	"2006"	"2006"	"Firearm"	"GRINJ-006"	10	351525	Unreliable
+	"West Virginia"	"54"	"2007"	"2007"	"Firearm"	"GRINJ-006"	19	348678	Unreliable
+	"West Virginia"	"54"	"2008"	"2008"	"Firearm"	"GRINJ-006"	15	345987	Unreliable
+	"West Virginia"	"54"	"2009"	"2009"	"Firearm"	"GRINJ-006"	22	346324	6.4
+	"West Virginia"	"54"	"2010"	"2010"	"Firearm"	"GRINJ-006"	17	346341	Unreliable
+	"West Virginia"	"54"	"2011"	"2011"	"Firearm"	"GRINJ-006"	23	347536	6.6
+	"West Virginia"	"54"	"2012"	"2012"	"Firearm"	"GRINJ-006"	23	346257	6.6
+	"West Virginia"	"54"	"2013"	"2013"	"Firearm"	"GRINJ-006"	16	345673	Unreliable
+	"West Virginia"	"54"	"2014"	"2014"	"Firearm"	"GRINJ-006"	23	343300	6.7
+	"West Virginia"	"54"	"2015"	"2015"	"Firearm"	"GRINJ-006"	17	337850	Unreliable
+	"West Virginia"	"54"	"2016"	"2016"	"Firearm"	"GRINJ-006"	23	332424	6.9
+	"West Virginia"	"54"	"2017"	"2017"	"Firearm"	"GRINJ-006"	20	327814	6.1
+	"West Virginia"	"54"	"2018"	"2018"	"Firearm"	"GRINJ-006"	27	324709	8.3
+	"West Virginia"	"54"	"2019"	"2019"	"Firearm"	"GRINJ-006"	27	320048	8.4
+	"West Virginia"	"54"	"2020"	"2020"	"Firearm"	"GRINJ-006"	28	318432	8.8
+	"Wisconsin"	"55"	"1999"	"1999"	"Firearm"	"GRINJ-006"	57	1162135	4.9
+	"Wisconsin"	"55"	"2000"	"2000"	"Firearm"	"GRINJ-006"	64	1167561	5.5
+	"Wisconsin"	"55"	"2001"	"2001"	"Firearm"	"GRINJ-006"	54	1187315	4.5
+	"Wisconsin"	"55"	"2002"	"2002"	"Firearm"	"GRINJ-006"	54	1199874	4.5
+	"Wisconsin"	"55"	"2003"	"2003"	"Firearm"	"GRINJ-006"	49	1208579	4.1
+	"Wisconsin"	"55"	"2004"	"2004"	"Firearm"	"GRINJ-006"	59	1210889	4.9
+	"Wisconsin"	"55"	"2005"	"2005"	"Firearm"	"GRINJ-006"	42	1208575	3.5
+	"Wisconsin"	"55"	"2006"	"2006"	"Firearm"	"GRINJ-006"	27	1202800	2.2
+	"Wisconsin"	"55"	"2007"	"2007"	"Firearm"	"GRINJ-006"	49	1190747	4.1
+	"Wisconsin"	"55"	"2008"	"2008"	"Firearm"	"GRINJ-006"	29	1178725	2.5
+	"Wisconsin"	"55"	"2009"	"2009"	"Firearm"	"GRINJ-006"	39	1169774	3.3
+	"Wisconsin"	"55"	"2010"	"2010"	"Firearm"	"GRINJ-006"	53	1161688	4.6
+	"Wisconsin"	"55"	"2011"	"2011"	"Firearm"	"GRINJ-006"	51	1160965	4.4
+	"Wisconsin"	"55"	"2012"	"2012"	"Firearm"	"GRINJ-006"	45	1154090	3.9
+	"Wisconsin"	"55"	"2013"	"2013"	"Firearm"	"GRINJ-006"	56	1155886	4.8
+	"Wisconsin"	"55"	"2014"	"2014"	"Firearm"	"GRINJ-006"	47	1159342	4.1
+	"Wisconsin"	"55"	"2015"	"2015"	"Firearm"	"GRINJ-006"	59	1157353	5.1
+	"Wisconsin"	"55"	"2016"	"2016"	"Firearm"	"GRINJ-006"	75	1155404	6.5
+	"Wisconsin"	"55"	"2017"	"2017"	"Firearm"	"GRINJ-006"	54	1150580	4.7
+	"Wisconsin"	"55"	"2018"	"2018"	"Firearm"	"GRINJ-006"	44	1143687	3.8
+	"Wisconsin"	"55"	"2019"	"2019"	"Firearm"	"GRINJ-006"	52	1134931	4.6
+	"Wisconsin"	"55"	"2020"	"2020"	"Firearm"	"GRINJ-006"	57	1132226	5.0
+	"Wyoming"	"56"	"1999"	"1999"	"Firearm"	"GRINJ-006"	15	114878	Unreliable
+	"Wyoming"	"56"	"2001"	"2001"	"Firearm"	"GRINJ-006"	13	114345	Unreliable
+	"Wyoming"	"56"	"2002"	"2002"	"Firearm"	"GRINJ-006"	16	115412	Unreliable
+	"Wyoming"	"56"	"2003"	"2003"	"Firearm"	"GRINJ-006"	12	115725	Unreliable
+	"Wyoming"	"56"	"2007"	"2007"	"Firearm"	"GRINJ-006"	12	114414	Unreliable
+	"Wyoming"	"56"	"2008"	"2008"	"Firearm"	"GRINJ-006"	10	114941	Unreliable
+	"Wyoming"	"56"	"2009"	"2009"	"Firearm"	"GRINJ-006"	13	115775	Unreliable
+	"Wyoming"	"56"	"2010"	"2010"	"Firearm"	"GRINJ-006"	19	114415	Unreliable
+	"Wyoming"	"56"	"2011"	"2011"	"Firearm"	"GRINJ-006"	17	114822	Unreliable
+	"Wyoming"	"56"	"2012"	"2012"	"Firearm"	"GRINJ-006"	11	116147	Unreliable
+	"Wyoming"	"56"	"2013"	"2013"	"Firearm"	"GRINJ-006"	16	117699	Unreliable
+	"Wyoming"	"56"	"2014"	"2014"	"Firearm"	"GRINJ-006"	17	117349	Unreliable
+	"Wyoming"	"56"	"2015"	"2015"	"Firearm"	"GRINJ-006"	17	116265	Unreliable
+	"Wyoming"	"56"	"2016"	"2016"	"Firearm"	"GRINJ-006"	10	115695	Unreliable
+	"Wyoming"	"56"	"2017"	"2017"	"Firearm"	"GRINJ-006"	15	113133	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	"Firearm"	"GRINJ-006"	20	113383	17.6
+	"Wyoming"	"56"	"2019"	"2019"	"Firearm"	"GRINJ-006"	18	114028	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"Firearm"	"GRINJ-006"	19	114897	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Five-Year Age Groups: 10-14 years; 15-19 years; 20-24 years"
+"MCD - ICD-10 Codes: X72 (Intentional self-harm by handgun discharge); X73 (Intentional self-harm by rifle, shotgun and larger"
+"firearm discharge); X74 (Intentional self-harm by other and unspecified firearm discharge)"
+"UCD - ICD-10 Codes: X72 (Intentional self-harm by handgun discharge); X73 (Intentional self-harm by rifle, shotgun and larger"
+"firearm discharge); X74 (Intentional self-harm by other and unspecified firearm discharge)"
+"Group By: State; Year; UCD - Injury Mechanism & All Other Leading Causes"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 5, 2025 8:58:55 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 5, 2025 8:58:55 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [UCD - ICD-10 Codes, UCD - Injury Mechanism & All Other Leading Causes] cause equivalent"
+"selections in the other variables. More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"4. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
